@@ -151,10 +151,7 @@ export default function Landing() {
             </svg>
 
             {/* floating feature pills */}
-            <FeaturePill top="6%" left="26%" icon="shield" label="ABHA" sub="Integration" />
-            <FeaturePill top="21%" right="4%" icon="translate" label="Multilingual" sub="Interface" />
-            <FeaturePill bottom="18%" left="2%" icon="stethoscope" label="Consult Doctor" sub="Remotely" />
-            <FeaturePill bottom="6%" right="6%" icon="medication" label="Allopathic & AYUSH" sub="Health Services" />
+            
           </motion.div>
         </div>
       </section>
