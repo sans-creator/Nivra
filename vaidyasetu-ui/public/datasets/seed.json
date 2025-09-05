@@ -1,0 +1,5887 @@
+{
+  "codes": [
+    {
+      "code": "ICD001",
+      "term": "Headache",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-21",
+      "updated_at": "2025-06-24"
+    },
+    {
+      "code": "TM002",
+      "term": "Thyroid Disorder therapy",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-28",
+      "updated_at": "2025-08-03"
+    },
+    {
+      "code": "NA003",
+      "term": "Hepatitis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-26",
+      "updated_at": "2025-07-16"
+    },
+    {
+      "code": "TM004",
+      "term": "Ear Infection therapy",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-06-14",
+      "updated_at": "2025-07-09"
+    },
+    {
+      "code": "NA005",
+      "term": "Sinusitis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-26",
+      "updated_at": "2025-08-25"
+    },
+    {
+      "code": "TM006",
+      "term": "Hypertension therapy",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-10",
+      "updated_at": "2025-07-18"
+    },
+    {
+      "code": "TM007",
+      "term": "Appendicitis",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-08-14",
+      "updated_at": "2025-08-31"
+    },
+    {
+      "code": "NA008",
+      "term": "Leptospirosis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-13",
+      "updated_at": "2025-07-19"
+    },
+    {
+      "code": "TM009",
+      "term": "Cough",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-06-11",
+      "updated_at": "2025-06-18"
+    },
+    {
+      "code": "BIO010",
+      "term": "Gastritis",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-08-08",
+      "updated_at": "2025-08-19"
+    },
+    {
+      "code": "NA011",
+      "term": "Typhoid",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-27",
+      "updated_at": "2025-07-17"
+    },
+    {
+      "code": "NA012",
+      "term": "Appendicitis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-30",
+      "updated_at": "2025-08-07"
+    },
+    {
+      "code": "BIO013",
+      "term": "Leptospirosis",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-06-24",
+      "updated_at": "2025-07-18"
+    },
+    {
+      "code": "TM014",
+      "term": "Arthritis",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-08-03",
+      "updated_at": "2025-08-05"
+    },
+    {
+      "code": "NA015",
+      "term": "Measles",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-08-03",
+      "updated_at": "2025-08-23"
+    },
+    {
+      "code": "ICD016",
+      "term": "Cholera",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-26",
+      "updated_at": "2025-07-13"
+    },
+    {
+      "code": "ICD017",
+      "term": "Piles",
+      "system": "ICD-11",
+      "mapped": false,
+      "created_at": "2025-07-28",
+      "updated_at": "2025-08-04"
+    },
+    {
+      "code": "BIO018",
+      "term": "Asthma",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-06-09",
+      "updated_at": "2025-06-12"
+    },
+    {
+      "code": "NA019",
+      "term": "Dengue",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-14",
+      "updated_at": "2025-07-16"
+    },
+    {
+      "code": "NA020",
+      "term": "Hepatitis",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-08-10",
+      "updated_at": "2025-08-27"
+    },
+    {
+      "code": "BIO021",
+      "term": "Fever",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-10",
+      "updated_at": "2025-07-18"
+    },
+    {
+      "code": "TM022",
+      "term": "Burn therapy",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-08-23",
+      "updated_at": "2025-09-22"
+    },
+    {
+      "code": "TM023",
+      "term": "Appendicitis",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-08",
+      "updated_at": "2025-08-06"
+    },
+    {
+      "code": "NA024",
+      "term": "Leptospirosis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-18",
+      "updated_at": "2025-07-24"
+    },
+    {
+      "code": "NA025",
+      "term": "Constipation",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-29",
+      "updated_at": "2025-06-29"
+    },
+    {
+      "code": "ICD026",
+      "term": "Depression due to bacteria",
+      "system": "ICD-11",
+      "mapped": false,
+      "created_at": "2025-07-31",
+      "updated_at": "2025-08-01"
+    },
+    {
+      "code": "NA027",
+      "term": "Measles",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-06-20",
+      "updated_at": "2025-07-05"
+    },
+    {
+      "code": "TM028",
+      "term": "Constipation",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-06-25",
+      "updated_at": "2025-07-12"
+    },
+    {
+      "code": "NA029",
+      "term": "Obesity",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-08-08",
+      "updated_at": "2025-09-06"
+    },
+    {
+      "code": "ICD030",
+      "term": "Appendicitis",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-09",
+      "updated_at": "2025-07-29"
+    },
+    {
+      "code": "NA031",
+      "term": "Obesity",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-30",
+      "updated_at": "2025-08-01"
+    },
+    {
+      "code": "NA032",
+      "term": "Jaundice",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-15",
+      "updated_at": "2025-08-15"
+    },
+    {
+      "code": "NA033",
+      "term": "Leptospirosis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-08",
+      "updated_at": "2025-06-09"
+    },
+    {
+      "code": "BIO034",
+      "term": "Body Pain",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-08-11",
+      "updated_at": "2025-08-28"
+    },
+    {
+      "code": "NA035",
+      "term": "Measles",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-23",
+      "updated_at": "2025-07-08"
+    },
+    {
+      "code": "TM036",
+      "term": "Back Pain therapy",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-22",
+      "updated_at": "2025-08-04"
+    },
+    {
+      "code": "ICD037",
+      "term": "Appendicitis due to unknown cause",
+      "system": "ICD-11",
+      "mapped": false,
+      "created_at": "2025-08-02",
+      "updated_at": "2025-08-14"
+    },
+    {
+      "code": "TM038",
+      "term": "Hypertension therapy",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-08-14",
+      "updated_at": "2025-08-27"
+    },
+    {
+      "code": "NA039",
+      "term": "UTI",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-07",
+      "updated_at": "2025-08-01"
+    },
+    {
+      "code": "BIO040",
+      "term": "Chickenpox therapy",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-05",
+      "updated_at": "2025-07-05"
+    },
+    {
+      "code": "BIO041",
+      "term": "Constipation",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-25",
+      "updated_at": "2025-07-31"
+    },
+    {
+      "code": "BIO042",
+      "term": "Cold therapy",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-08-03",
+      "updated_at": "2025-09-01"
+    },
+    {
+      "code": "TM043",
+      "term": "UTI",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-16",
+      "updated_at": "2025-08-07"
+    },
+    {
+      "code": "ICD044",
+      "term": "Back Pain due to virus",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-24",
+      "updated_at": "2025-09-16"
+    },
+    {
+      "code": "NA045",
+      "term": "Cold",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-28",
+      "updated_at": "2025-07-25"
+    },
+    {
+      "code": "ICD046",
+      "term": "Cold",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-06",
+      "updated_at": "2025-08-25"
+    },
+    {
+      "code": "NA047",
+      "term": "COVID-19",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-13",
+      "updated_at": "2025-08-31"
+    },
+    {
+      "code": "ICD048",
+      "term": "Tuberculosis due to unknown cause",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-06",
+      "updated_at": "2025-09-04"
+    },
+    {
+      "code": "NA049",
+      "term": "Typhoid",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-27",
+      "updated_at": "2025-08-08"
+    },
+    {
+      "code": "NA050",
+      "term": "Cholera",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-18",
+      "updated_at": "2025-07-12"
+    },
+    {
+      "code": "BIO051",
+      "term": "Fever",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-08-01",
+      "updated_at": "2025-08-18"
+    },
+    {
+      "code": "NA052",
+      "term": "Influenza",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-22",
+      "updated_at": "2025-06-24"
+    },
+    {
+      "code": "BIO053",
+      "term": "Sprain",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-13",
+      "updated_at": "2025-07-22"
+    },
+    {
+      "code": "ICD054",
+      "term": "Cholera",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-08",
+      "updated_at": "2025-09-06"
+    },
+    {
+      "code": "TM055",
+      "term": "Asthma",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-08-18",
+      "updated_at": "2025-08-26"
+    },
+    {
+      "code": "NA056",
+      "term": "Anemia",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-28",
+      "updated_at": "2025-07-18"
+    },
+    {
+      "code": "BIO057",
+      "term": "Insomnia",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-07-29",
+      "updated_at": "2025-08-18"
+    },
+    {
+      "code": "NA058",
+      "term": "Allergy",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-29",
+      "updated_at": "2025-07-03"
+    },
+    {
+      "code": "ICD059",
+      "term": "Influenza due to bacteria",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-17",
+      "updated_at": "2025-07-17"
+    },
+    {
+      "code": "NA060",
+      "term": "Otitis Media",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-08-25",
+      "updated_at": "2025-09-20"
+    },
+    {
+      "code": "NA061",
+      "term": "Chickenpox",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-05",
+      "updated_at": "2025-08-14"
+    },
+    {
+      "code": "NA062",
+      "term": "Cough",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-06-29",
+      "updated_at": "2025-07-06"
+    },
+    {
+      "code": "TM063",
+      "term": "Fracture",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-07-12",
+      "updated_at": "2025-08-04"
+    },
+    {
+      "code": "NA064",
+      "term": "COVID-19",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-06-14",
+      "updated_at": "2025-06-27"
+    },
+    {
+      "code": "NA065",
+      "term": "Piles",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-06-30",
+      "updated_at": "2025-07-21"
+    },
+    {
+      "code": "BIO066",
+      "term": "COVID-19",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-07-13",
+      "updated_at": "2025-08-09"
+    },
+    {
+      "code": "NA067",
+      "term": "Anxiety",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-01",
+      "updated_at": "2025-08-10"
+    },
+    {
+      "code": "TM068",
+      "term": "Arthritis therapy",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-30",
+      "updated_at": "2025-08-07"
+    },
+    {
+      "code": "BIO069",
+      "term": "Allergy",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-08-06",
+      "updated_at": "2025-09-05"
+    },
+    {
+      "code": "NA070",
+      "term": "Influenza",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-11",
+      "updated_at": "2025-08-14"
+    },
+    {
+      "code": "ICD071",
+      "term": "Fracture",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-29",
+      "updated_at": "2025-08-01"
+    },
+    {
+      "code": "NA072",
+      "term": "Measles",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-19",
+      "updated_at": "2025-07-02"
+    },
+    {
+      "code": "NA073",
+      "term": "Thyroid Disorder",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-18",
+      "updated_at": "2025-07-31"
+    },
+    {
+      "code": "NA074",
+      "term": "Typhoid",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-08-11",
+      "updated_at": "2025-09-01"
+    },
+    {
+      "code": "TM075",
+      "term": "Appendicitis",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-31",
+      "updated_at": "2025-08-12"
+    },
+    {
+      "code": "TM076",
+      "term": "Chickenpox therapy",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-07",
+      "updated_at": "2025-07-30"
+    },
+    {
+      "code": "BIO077",
+      "term": "Tuberculosis",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-13",
+      "updated_at": "2025-07-22"
+    },
+    {
+      "code": "NA078",
+      "term": "Jaundice",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-18",
+      "updated_at": "2025-08-01"
+    },
+    {
+      "code": "NA079",
+      "term": "Anemia",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-28",
+      "updated_at": "2025-06-30"
+    },
+    {
+      "code": "NA080",
+      "term": "Typhoid",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-12",
+      "updated_at": "2025-09-07"
+    },
+    {
+      "code": "BIO081",
+      "term": "COVID-19",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-08-01",
+      "updated_at": "2025-08-01"
+    },
+    {
+      "code": "NA082",
+      "term": "Anxiety",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-06",
+      "updated_at": "2025-07-19"
+    },
+    {
+      "code": "BIO083",
+      "term": "Measles therapy",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-30",
+      "updated_at": "2025-08-06"
+    },
+    {
+      "code": "NA084",
+      "term": "Otitis Media",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-18",
+      "updated_at": "2025-07-01"
+    },
+    {
+      "code": "NA085",
+      "term": "Otitis Media",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-29",
+      "updated_at": "2025-07-06"
+    },
+    {
+      "code": "BIO086",
+      "term": "Diabetes",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-07-22",
+      "updated_at": "2025-08-10"
+    },
+    {
+      "code": "NA087",
+      "term": "Constipation",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-07-09",
+      "updated_at": "2025-08-01"
+    },
+    {
+      "code": "BIO088",
+      "term": "Sinusitis",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-06-22",
+      "updated_at": "2025-07-19"
+    },
+    {
+      "code": "ICD089",
+      "term": "Influenza",
+      "system": "ICD-11",
+      "mapped": false,
+      "created_at": "2025-06-26",
+      "updated_at": "2025-07-20"
+    },
+    {
+      "code": "ICD090",
+      "term": "Leptospirosis due to bacteria",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-30",
+      "updated_at": "2025-08-07"
+    },
+    {
+      "code": "NA091",
+      "term": "Thyroid Disorder",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-25",
+      "updated_at": "2025-08-06"
+    },
+    {
+      "code": "TM092",
+      "term": "Sciatica therapy",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-14",
+      "updated_at": "2025-07-28"
+    },
+    {
+      "code": "NA093",
+      "term": "Anemia",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-06-23",
+      "updated_at": "2025-07-17"
+    },
+    {
+      "code": "ICD094",
+      "term": "Otitis Media due to unknown cause",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-02",
+      "updated_at": "2025-06-13"
+    },
+    {
+      "code": "NA095",
+      "term": "Gastritis",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-07-18",
+      "updated_at": "2025-08-10"
+    },
+    {
+      "code": "TM096",
+      "term": "Hepatitis",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-18",
+      "updated_at": "2025-08-02"
+    },
+    {
+      "code": "NA097",
+      "term": "Burn",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-05",
+      "updated_at": "2025-07-10"
+    },
+    {
+      "code": "TM098",
+      "term": "Asthma",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-14",
+      "updated_at": "2025-08-01"
+    },
+    {
+      "code": "TM099",
+      "term": "Stomachache",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-08-12",
+      "updated_at": "2025-08-13"
+    },
+    {
+      "code": "NA100",
+      "term": "Skin Rash",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-26",
+      "updated_at": "2025-08-19"
+    },
+    {
+      "code": "BIO101",
+      "term": "Allergy",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-06-21",
+      "updated_at": "2025-06-23"
+    },
+    {
+      "code": "ICD102",
+      "term": "Piles",
+      "system": "ICD-11",
+      "mapped": false,
+      "created_at": "2025-08-03",
+      "updated_at": "2025-08-23"
+    },
+    {
+      "code": "NA103",
+      "term": "Cholera",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-03",
+      "updated_at": "2025-06-10"
+    },
+    {
+      "code": "NA104",
+      "term": "Headache",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-04",
+      "updated_at": "2025-08-19"
+    },
+    {
+      "code": "TM105",
+      "term": "Measles",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-06-25",
+      "updated_at": "2025-07-06"
+    },
+    {
+      "code": "NA106",
+      "term": "Hepatitis",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-06-18",
+      "updated_at": "2025-07-14"
+    },
+    {
+      "code": "NA107",
+      "term": "Dehydration",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-04",
+      "updated_at": "2025-06-13"
+    },
+    {
+      "code": "ICD108",
+      "term": "Gastritis",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-28",
+      "updated_at": "2025-07-20"
+    },
+    {
+      "code": "TM109",
+      "term": "COVID-19 therapy",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-07-10",
+      "updated_at": "2025-07-13"
+    },
+    {
+      "code": "TM110",
+      "term": "Measles",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-10",
+      "updated_at": "2025-07-21"
+    },
+    {
+      "code": "NA111",
+      "term": "Cholera",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-30",
+      "updated_at": "2025-07-15"
+    },
+    {
+      "code": "NA112",
+      "term": "Sprain",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-09",
+      "updated_at": "2025-07-13"
+    },
+    {
+      "code": "NA113",
+      "term": "Appendicitis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-06",
+      "updated_at": "2025-07-31"
+    },
+    {
+      "code": "BIO114",
+      "term": "Anxiety",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-08-12",
+      "updated_at": "2025-08-22"
+    },
+    {
+      "code": "BIO115",
+      "term": "Stomachache",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-18",
+      "updated_at": "2025-08-06"
+    },
+    {
+      "code": "TM116",
+      "term": "Burn therapy",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-07-09",
+      "updated_at": "2025-07-15"
+    },
+    {
+      "code": "NA117",
+      "term": "Influenza",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-16",
+      "updated_at": "2025-08-13"
+    },
+    {
+      "code": "NA118",
+      "term": "Fever",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-05",
+      "updated_at": "2025-08-12"
+    },
+    {
+      "code": "TM119",
+      "term": "Depression",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-14",
+      "updated_at": "2025-08-05"
+    },
+    {
+      "code": "ICD120",
+      "term": "Headache due to virus",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-24",
+      "updated_at": "2025-08-14"
+    },
+    {
+      "code": "ICD121",
+      "term": "Anxiety",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-06",
+      "updated_at": "2025-08-17"
+    },
+    {
+      "code": "TM122",
+      "term": "Allergy",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-21",
+      "updated_at": "2025-07-24"
+    },
+    {
+      "code": "TM123",
+      "term": "Constipation",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-08-07",
+      "updated_at": "2025-08-30"
+    },
+    {
+      "code": "ICD124",
+      "term": "Constipation",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-13",
+      "updated_at": "2025-06-19"
+    },
+    {
+      "code": "NA125",
+      "term": "Sprain",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-17",
+      "updated_at": "2025-07-04"
+    },
+    {
+      "code": "NA126",
+      "term": "Cough",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-08-09",
+      "updated_at": "2025-08-31"
+    },
+    {
+      "code": "BIO127",
+      "term": "Leptospirosis",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-06-26",
+      "updated_at": "2025-07-05"
+    },
+    {
+      "code": "ICD128",
+      "term": "Bronchitis",
+      "system": "ICD-11",
+      "mapped": false,
+      "created_at": "2025-06-14",
+      "updated_at": "2025-07-11"
+    },
+    {
+      "code": "ICD129",
+      "term": "Body Pain",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-19",
+      "updated_at": "2025-07-20"
+    },
+    {
+      "code": "NA130",
+      "term": "Measles",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-07-21",
+      "updated_at": "2025-07-24"
+    },
+    {
+      "code": "ICD131",
+      "term": "Ear Infection",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-23",
+      "updated_at": "2025-07-09"
+    },
+    {
+      "code": "NA132",
+      "term": "Bronchitis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-02",
+      "updated_at": "2025-08-11"
+    },
+    {
+      "code": "ICD133",
+      "term": "Cold",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-02",
+      "updated_at": "2025-07-08"
+    },
+    {
+      "code": "NA134",
+      "term": "Stomachache",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-05",
+      "updated_at": "2025-07-07"
+    },
+    {
+      "code": "NA135",
+      "term": "Ear Infection",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-30",
+      "updated_at": "2025-08-08"
+    },
+    {
+      "code": "NA136",
+      "term": "Pneumonia",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-19",
+      "updated_at": "2025-09-09"
+    },
+    {
+      "code": "NA137",
+      "term": "Influenza",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-25",
+      "updated_at": "2025-08-15"
+    },
+    {
+      "code": "TM138",
+      "term": "Back Pain",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-06-11",
+      "updated_at": "2025-06-19"
+    },
+    {
+      "code": "TM139",
+      "term": "Body Pain therapy",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-07-13",
+      "updated_at": "2025-08-08"
+    },
+    {
+      "code": "ICD140",
+      "term": "Pneumonia",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-02",
+      "updated_at": "2025-07-14"
+    },
+    {
+      "code": "BIO141",
+      "term": "Insomnia",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-08-28",
+      "updated_at": "2025-09-25"
+    },
+    {
+      "code": "NA142",
+      "term": "Skin Rash",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-28",
+      "updated_at": "2025-08-04"
+    },
+    {
+      "code": "BIO143",
+      "term": "Measles",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-09",
+      "updated_at": "2025-07-10"
+    },
+    {
+      "code": "TM144",
+      "term": "Migraine",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-08-03",
+      "updated_at": "2025-08-21"
+    },
+    {
+      "code": "NA145",
+      "term": "Depression",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-08-01",
+      "updated_at": "2025-08-14"
+    },
+    {
+      "code": "NA146",
+      "term": "Typhoid",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-18",
+      "updated_at": "2025-07-31"
+    },
+    {
+      "code": "TM147",
+      "term": "Pneumonia",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-08-25",
+      "updated_at": "2025-09-08"
+    },
+    {
+      "code": "NA148",
+      "term": "Influenza",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-26",
+      "updated_at": "2025-07-12"
+    },
+    {
+      "code": "TM149",
+      "term": "Fever",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-08-18",
+      "updated_at": "2025-08-24"
+    },
+    {
+      "code": "ICD150",
+      "term": "Tuberculosis",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-21",
+      "updated_at": "2025-07-29"
+    },
+    {
+      "code": "ICD151",
+      "term": "Pneumonia",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-05",
+      "updated_at": "2025-08-25"
+    },
+    {
+      "code": "ICD152",
+      "term": "COVID-19",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-27",
+      "updated_at": "2025-07-10"
+    },
+    {
+      "code": "NA153",
+      "term": "Diabetes",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-26",
+      "updated_at": "2025-07-22"
+    },
+    {
+      "code": "NA154",
+      "term": "Sciatica",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-19",
+      "updated_at": "2025-08-14"
+    },
+    {
+      "code": "ICD155",
+      "term": "Anxiety due to unknown cause",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-13",
+      "updated_at": "2025-07-02"
+    },
+    {
+      "code": "ICD156",
+      "term": "Asthma",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-31",
+      "updated_at": "2025-08-29"
+    },
+    {
+      "code": "TM157",
+      "term": "Allergy",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-06-23",
+      "updated_at": "2025-07-11"
+    },
+    {
+      "code": "ICD158",
+      "term": "Typhoid",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-28",
+      "updated_at": "2025-08-08"
+    },
+    {
+      "code": "NA159",
+      "term": "Constipation",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-25",
+      "updated_at": "2025-07-05"
+    },
+    {
+      "code": "BIO160",
+      "term": "Otitis Media therapy",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-08-18",
+      "updated_at": "2025-08-28"
+    },
+    {
+      "code": "TM161",
+      "term": "Sciatica",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-08",
+      "updated_at": "2025-08-07"
+    },
+    {
+      "code": "NA162",
+      "term": "Insomnia",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-06-23",
+      "updated_at": "2025-06-26"
+    },
+    {
+      "code": "BIO163",
+      "term": "Bronchitis therapy",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-06-16",
+      "updated_at": "2025-06-20"
+    },
+    {
+      "code": "NA164",
+      "term": "Cholera",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-07-05",
+      "updated_at": "2025-07-30"
+    },
+    {
+      "code": "BIO165",
+      "term": "Burn",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-06-11",
+      "updated_at": "2025-06-21"
+    },
+    {
+      "code": "BIO166",
+      "term": "Thyroid Disorder",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-06-30",
+      "updated_at": "2025-07-17"
+    },
+    {
+      "code": "NA167",
+      "term": "Body Pain",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-31",
+      "updated_at": "2025-08-23"
+    },
+    {
+      "code": "NA168",
+      "term": "Hypertension",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-08",
+      "updated_at": "2025-07-13"
+    },
+    {
+      "code": "TM169",
+      "term": "Headache therapy",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-07-24",
+      "updated_at": "2025-08-04"
+    },
+    {
+      "code": "NA170",
+      "term": "COVID-19",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-16",
+      "updated_at": "2025-08-10"
+    },
+    {
+      "code": "NA171",
+      "term": "Migraine",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-11",
+      "updated_at": "2025-08-01"
+    },
+    {
+      "code": "NA172",
+      "term": "Jaundice",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-14",
+      "updated_at": "2025-07-22"
+    },
+    {
+      "code": "ICD173",
+      "term": "Typhoid due to bacteria",
+      "system": "ICD-11",
+      "mapped": false,
+      "created_at": "2025-08-17",
+      "updated_at": "2025-08-19"
+    },
+    {
+      "code": "NA174",
+      "term": "Fracture",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-07-06",
+      "updated_at": "2025-08-05"
+    },
+    {
+      "code": "NA175",
+      "term": "Influenza",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-03",
+      "updated_at": "2025-08-15"
+    },
+    {
+      "code": "BIO176",
+      "term": "Hypertension therapy",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-08-10",
+      "updated_at": "2025-09-01"
+    },
+    {
+      "code": "NA177",
+      "term": "Typhoid",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-26",
+      "updated_at": "2025-07-23"
+    },
+    {
+      "code": "TM178",
+      "term": "Piles",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-07-03",
+      "updated_at": "2025-07-31"
+    },
+    {
+      "code": "BIO179",
+      "term": "Arthritis",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-08-19",
+      "updated_at": "2025-09-07"
+    },
+    {
+      "code": "NA180",
+      "term": "Constipation",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-28",
+      "updated_at": "2025-07-01"
+    },
+    {
+      "code": "BIO181",
+      "term": "Cholera therapy",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-06-26",
+      "updated_at": "2025-07-07"
+    },
+    {
+      "code": "TM182",
+      "term": "Stomachache",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-08-10",
+      "updated_at": "2025-08-16"
+    },
+    {
+      "code": "NA183",
+      "term": "Thyroid Disorder",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-07-16",
+      "updated_at": "2025-08-01"
+    },
+    {
+      "code": "BIO184",
+      "term": "Dengue",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-07-04",
+      "updated_at": "2025-07-13"
+    },
+    {
+      "code": "TM185",
+      "term": "Burn",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-26",
+      "updated_at": "2025-08-19"
+    },
+    {
+      "code": "BIO186",
+      "term": "Conjunctivitis",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-08-05",
+      "updated_at": "2025-08-07"
+    },
+    {
+      "code": "TM187",
+      "term": "Fever",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-06",
+      "updated_at": "2025-07-29"
+    },
+    {
+      "code": "TM188",
+      "term": "Jaundice",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-08-13",
+      "updated_at": "2025-09-03"
+    },
+    {
+      "code": "NA189",
+      "term": "Headache",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-08",
+      "updated_at": "2025-09-06"
+    },
+    {
+      "code": "ICD190",
+      "term": "Cholera due to bacteria",
+      "system": "ICD-11",
+      "mapped": false,
+      "created_at": "2025-07-05",
+      "updated_at": "2025-07-18"
+    },
+    {
+      "code": "NA191",
+      "term": "Cough",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-07-15",
+      "updated_at": "2025-07-18"
+    },
+    {
+      "code": "NA192",
+      "term": "Thyroid Disorder",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-31",
+      "updated_at": "2025-08-21"
+    },
+    {
+      "code": "BIO193",
+      "term": "Otitis Media",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-06-13",
+      "updated_at": "2025-06-26"
+    },
+    {
+      "code": "TM194",
+      "term": "Depression",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-08-12",
+      "updated_at": "2025-09-03"
+    },
+    {
+      "code": "NA195",
+      "term": "Bronchitis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-19",
+      "updated_at": "2025-06-30"
+    },
+    {
+      "code": "NA196",
+      "term": "Conjunctivitis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-15",
+      "updated_at": "2025-08-27"
+    },
+    {
+      "code": "NA197",
+      "term": "Diabetes",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-08-18",
+      "updated_at": "2025-09-08"
+    },
+    {
+      "code": "NA198",
+      "term": "Leptospirosis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-30",
+      "updated_at": "2025-08-24"
+    },
+    {
+      "code": "NA199",
+      "term": "Asthma",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-06",
+      "updated_at": "2025-09-01"
+    },
+    {
+      "code": "TM200",
+      "term": "Anemia",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-07-22",
+      "updated_at": "2025-08-15"
+    },
+    {
+      "code": "NA201",
+      "term": "Hepatitis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-31",
+      "updated_at": "2025-08-17"
+    },
+    {
+      "code": "NA202",
+      "term": "Migraine",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-25",
+      "updated_at": "2025-07-25"
+    },
+    {
+      "code": "NA203",
+      "term": "COVID-19",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-21",
+      "updated_at": "2025-07-29"
+    },
+    {
+      "code": "NA204",
+      "term": "Piles",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-20",
+      "updated_at": "2025-06-22"
+    },
+    {
+      "code": "ICD205",
+      "term": "Sprain",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-11",
+      "updated_at": "2025-09-10"
+    },
+    {
+      "code": "ICD206",
+      "term": "Appendicitis",
+      "system": "ICD-11",
+      "mapped": false,
+      "created_at": "2025-08-07",
+      "updated_at": "2025-08-21"
+    },
+    {
+      "code": "ICD207",
+      "term": "Headache due to bacteria",
+      "system": "ICD-11",
+      "mapped": false,
+      "created_at": "2025-07-09",
+      "updated_at": "2025-07-12"
+    },
+    {
+      "code": "ICD208",
+      "term": "Bronchitis due to virus",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-04",
+      "updated_at": "2025-08-08"
+    },
+    {
+      "code": "NA209",
+      "term": "Leptospirosis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-23",
+      "updated_at": "2025-08-11"
+    },
+    {
+      "code": "ICD210",
+      "term": "UTI",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-13",
+      "updated_at": "2025-07-03"
+    },
+    {
+      "code": "TM211",
+      "term": "Chickenpox",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-06-27",
+      "updated_at": "2025-07-04"
+    },
+    {
+      "code": "NA212",
+      "term": "UTI",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-16",
+      "updated_at": "2025-07-29"
+    },
+    {
+      "code": "NA213",
+      "term": "Influenza",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-26",
+      "updated_at": "2025-07-25"
+    },
+    {
+      "code": "ICD214",
+      "term": "Stomachache",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-19",
+      "updated_at": "2025-07-12"
+    },
+    {
+      "code": "NA215",
+      "term": "Asthma",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-25",
+      "updated_at": "2025-08-11"
+    },
+    {
+      "code": "NA216",
+      "term": "Diabetes",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-27",
+      "updated_at": "2025-07-26"
+    },
+    {
+      "code": "TM217",
+      "term": "Pneumonia",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-28",
+      "updated_at": "2025-08-03"
+    },
+    {
+      "code": "NA218",
+      "term": "Anxiety",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-15",
+      "updated_at": "2025-08-11"
+    },
+    {
+      "code": "ICD219",
+      "term": "Diabetes",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-28",
+      "updated_at": "2025-07-15"
+    },
+    {
+      "code": "BIO220",
+      "term": "Tuberculosis",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-06-25",
+      "updated_at": "2025-07-24"
+    },
+    {
+      "code": "TM221",
+      "term": "Otitis Media",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-06-18",
+      "updated_at": "2025-06-28"
+    },
+    {
+      "code": "NA222",
+      "term": "Migraine",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-07-17",
+      "updated_at": "2025-07-29"
+    },
+    {
+      "code": "NA223",
+      "term": "Piles",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-28",
+      "updated_at": "2025-08-20"
+    },
+    {
+      "code": "ICD224",
+      "term": "Gastritis",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-30",
+      "updated_at": "2025-08-22"
+    },
+    {
+      "code": "NA225",
+      "term": "Measles",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-25",
+      "updated_at": "2025-07-30"
+    },
+    {
+      "code": "TM226",
+      "term": "Cold",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-21",
+      "updated_at": "2025-08-09"
+    },
+    {
+      "code": "NA227",
+      "term": "Allergy",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-18",
+      "updated_at": "2025-08-29"
+    },
+    {
+      "code": "NA228",
+      "term": "Pneumonia",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-29",
+      "updated_at": "2025-08-14"
+    },
+    {
+      "code": "TM229",
+      "term": "Cough therapy",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-08-03",
+      "updated_at": "2025-08-09"
+    },
+    {
+      "code": "NA230",
+      "term": "Anemia",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-26",
+      "updated_at": "2025-08-05"
+    },
+    {
+      "code": "NA231",
+      "term": "Depression",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-01",
+      "updated_at": "2025-08-13"
+    },
+    {
+      "code": "ICD232",
+      "term": "Arthritis",
+      "system": "ICD-11",
+      "mapped": false,
+      "created_at": "2025-08-14",
+      "updated_at": "2025-08-26"
+    },
+    {
+      "code": "BIO233",
+      "term": "Cough",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-06-10",
+      "updated_at": "2025-06-20"
+    },
+    {
+      "code": "ICD234",
+      "term": "Measles",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-08",
+      "updated_at": "2025-08-20"
+    },
+    {
+      "code": "NA235",
+      "term": "Skin Rash",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-02",
+      "updated_at": "2025-08-28"
+    },
+    {
+      "code": "TM236",
+      "term": "Sprain therapy",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-07-16",
+      "updated_at": "2025-08-03"
+    },
+    {
+      "code": "NA237",
+      "term": "Stomachache",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-30",
+      "updated_at": "2025-07-10"
+    },
+    {
+      "code": "NA238",
+      "term": "Dengue",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-24",
+      "updated_at": "2025-09-09"
+    },
+    {
+      "code": "ICD239",
+      "term": "Fracture",
+      "system": "ICD-11",
+      "mapped": false,
+      "created_at": "2025-07-24",
+      "updated_at": "2025-07-27"
+    },
+    {
+      "code": "NA240",
+      "term": "Back Pain",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-21",
+      "updated_at": "2025-07-15"
+    },
+    {
+      "code": "TM241",
+      "term": "Migraine",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-06",
+      "updated_at": "2025-07-24"
+    },
+    {
+      "code": "TM242",
+      "term": "Bronchitis",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-07-23",
+      "updated_at": "2025-08-02"
+    },
+    {
+      "code": "BIO243",
+      "term": "Leptospirosis",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-26",
+      "updated_at": "2025-08-15"
+    },
+    {
+      "code": "NA244",
+      "term": "Allergy",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-17",
+      "updated_at": "2025-07-19"
+    },
+    {
+      "code": "NA245",
+      "term": "Bronchitis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-26",
+      "updated_at": "2025-07-05"
+    },
+    {
+      "code": "NA246",
+      "term": "Stomachache",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-01",
+      "updated_at": "2025-08-15"
+    },
+    {
+      "code": "ICD247",
+      "term": "Piles",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-18",
+      "updated_at": "2025-07-24"
+    },
+    {
+      "code": "NA248",
+      "term": "Anxiety",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-07",
+      "updated_at": "2025-07-10"
+    },
+    {
+      "code": "TM249",
+      "term": "Burn",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-08-07",
+      "updated_at": "2025-08-14"
+    },
+    {
+      "code": "TM250",
+      "term": "Bronchitis",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-26",
+      "updated_at": "2025-08-24"
+    },
+    {
+      "code": "NA251",
+      "term": "Ear Infection",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-27",
+      "updated_at": "2025-09-21"
+    },
+    {
+      "code": "ICD252",
+      "term": "Burn due to virus",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-01",
+      "updated_at": "2025-08-09"
+    },
+    {
+      "code": "TM253",
+      "term": "Typhoid",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-18",
+      "updated_at": "2025-07-20"
+    },
+    {
+      "code": "ICD254",
+      "term": "Malaria",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-12",
+      "updated_at": "2025-08-31"
+    },
+    {
+      "code": "TM255",
+      "term": "Stomachache",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-06-25",
+      "updated_at": "2025-06-29"
+    },
+    {
+      "code": "TM256",
+      "term": "Piles",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-06-25",
+      "updated_at": "2025-07-16"
+    },
+    {
+      "code": "NA257",
+      "term": "Sprain",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-04",
+      "updated_at": "2025-09-03"
+    },
+    {
+      "code": "NA258",
+      "term": "Depression",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-29",
+      "updated_at": "2025-07-31"
+    },
+    {
+      "code": "NA259",
+      "term": "Hypertension",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-05",
+      "updated_at": "2025-07-28"
+    },
+    {
+      "code": "BIO260",
+      "term": "Cough",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-08-23",
+      "updated_at": "2025-09-11"
+    },
+    {
+      "code": "NA261",
+      "term": "Dengue",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-11",
+      "updated_at": "2025-08-08"
+    },
+    {
+      "code": "NA262",
+      "term": "Bronchitis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-06",
+      "updated_at": "2025-07-29"
+    },
+    {
+      "code": "NA263",
+      "term": "Bronchitis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-08",
+      "updated_at": "2025-08-25"
+    },
+    {
+      "code": "NA264",
+      "term": "Anxiety",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-07-18",
+      "updated_at": "2025-08-08"
+    },
+    {
+      "code": "BIO265",
+      "term": "Bronchitis",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-18",
+      "updated_at": "2025-08-03"
+    },
+    {
+      "code": "NA266",
+      "term": "Dengue",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-08-22",
+      "updated_at": "2025-09-18"
+    },
+    {
+      "code": "NA267",
+      "term": "Cholera",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-15",
+      "updated_at": "2025-08-13"
+    },
+    {
+      "code": "NA268",
+      "term": "Obesity",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-08-09",
+      "updated_at": "2025-09-02"
+    },
+    {
+      "code": "NA269",
+      "term": "Bronchitis",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-06-16",
+      "updated_at": "2025-06-29"
+    },
+    {
+      "code": "NA270",
+      "term": "Arthritis",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-06-19",
+      "updated_at": "2025-06-19"
+    },
+    {
+      "code": "NA271",
+      "term": "Ulcer",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-19",
+      "updated_at": "2025-07-21"
+    },
+    {
+      "code": "NA272",
+      "term": "Headache",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-13",
+      "updated_at": "2025-07-05"
+    },
+    {
+      "code": "ICD273",
+      "term": "Malaria due to bacteria",
+      "system": "ICD-11",
+      "mapped": false,
+      "created_at": "2025-07-10",
+      "updated_at": "2025-08-05"
+    },
+    {
+      "code": "NA274",
+      "term": "Sciatica",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-30",
+      "updated_at": "2025-09-27"
+    },
+    {
+      "code": "NA275",
+      "term": "Influenza",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-04",
+      "updated_at": "2025-08-03"
+    },
+    {
+      "code": "TM276",
+      "term": "Obesity",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-07-24",
+      "updated_at": "2025-07-27"
+    },
+    {
+      "code": "NA277",
+      "term": "Ear Infection",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-02",
+      "updated_at": "2025-08-04"
+    },
+    {
+      "code": "NA278",
+      "term": "Depression",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-22",
+      "updated_at": "2025-07-08"
+    },
+    {
+      "code": "ICD279",
+      "term": "Sciatica due to bacteria",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-03",
+      "updated_at": "2025-08-21"
+    },
+    {
+      "code": "NA280",
+      "term": "Typhoid",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-03",
+      "updated_at": "2025-08-05"
+    },
+    {
+      "code": "BIO281",
+      "term": "Thyroid Disorder",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-08-26",
+      "updated_at": "2025-09-07"
+    },
+    {
+      "code": "BIO282",
+      "term": "Cough",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-06-27",
+      "updated_at": "2025-06-27"
+    },
+    {
+      "code": "NA283",
+      "term": "Body Pain",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-25",
+      "updated_at": "2025-09-18"
+    },
+    {
+      "code": "ICD284",
+      "term": "Constipation",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-06",
+      "updated_at": "2025-09-01"
+    },
+    {
+      "code": "ICD285",
+      "term": "Conjunctivitis",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-20",
+      "updated_at": "2025-09-14"
+    },
+    {
+      "code": "NA286",
+      "term": "Sciatica",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-21",
+      "updated_at": "2025-08-30"
+    },
+    {
+      "code": "NA287",
+      "term": "Back Pain",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-06-18",
+      "updated_at": "2025-06-27"
+    },
+    {
+      "code": "ICD288",
+      "term": "Thyroid Disorder",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-23",
+      "updated_at": "2025-08-03"
+    },
+    {
+      "code": "BIO289",
+      "term": "Cold",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-06-17",
+      "updated_at": "2025-06-28"
+    },
+    {
+      "code": "NA290",
+      "term": "Ulcer",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-29",
+      "updated_at": "2025-08-03"
+    },
+    {
+      "code": "ICD291",
+      "term": "Depression",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-23",
+      "updated_at": "2025-06-25"
+    },
+    {
+      "code": "TM292",
+      "term": "Stomachache",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-07-06",
+      "updated_at": "2025-07-15"
+    },
+    {
+      "code": "NA293",
+      "term": "Stomachache",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-27",
+      "updated_at": "2025-08-10"
+    },
+    {
+      "code": "ICD294",
+      "term": "Sinusitis due to bacteria",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-18",
+      "updated_at": "2025-07-15"
+    },
+    {
+      "code": "BIO295",
+      "term": "Tuberculosis",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-30",
+      "updated_at": "2025-08-20"
+    },
+    {
+      "code": "ICD296",
+      "term": "Sprain",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-09",
+      "updated_at": "2025-06-09"
+    },
+    {
+      "code": "NA297",
+      "term": "Hepatitis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-20",
+      "updated_at": "2025-08-24"
+    },
+    {
+      "code": "NA298",
+      "term": "Cholera",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-20",
+      "updated_at": "2025-07-08"
+    },
+    {
+      "code": "NA299",
+      "term": "Malaria",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-27",
+      "updated_at": "2025-08-10"
+    },
+    {
+      "code": "TM300",
+      "term": "Measles therapy",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-06",
+      "updated_at": "2025-07-14"
+    },
+    {
+      "code": "NA301",
+      "term": "Diabetes",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-10",
+      "updated_at": "2025-07-26"
+    },
+    {
+      "code": "NA302",
+      "term": "Chickenpox",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-29",
+      "updated_at": "2025-07-13"
+    },
+    {
+      "code": "NA303",
+      "term": "Tuberculosis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-12",
+      "updated_at": "2025-08-15"
+    },
+    {
+      "code": "NA304",
+      "term": "Body Pain",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-17",
+      "updated_at": "2025-09-11"
+    },
+    {
+      "code": "TM305",
+      "term": "Skin Rash",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-07-24",
+      "updated_at": "2025-08-02"
+    },
+    {
+      "code": "BIO306",
+      "term": "Dengue",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-08-20",
+      "updated_at": "2025-09-14"
+    },
+    {
+      "code": "NA307",
+      "term": "Arthritis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-21",
+      "updated_at": "2025-06-25"
+    },
+    {
+      "code": "NA308",
+      "term": "Depression",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-22",
+      "updated_at": "2025-08-02"
+    },
+    {
+      "code": "ICD309",
+      "term": "Chickenpox due to virus",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-06",
+      "updated_at": "2025-07-29"
+    },
+    {
+      "code": "ICD310",
+      "term": "Ear Infection",
+      "system": "ICD-11",
+      "mapped": false,
+      "created_at": "2025-07-27",
+      "updated_at": "2025-08-06"
+    },
+    {
+      "code": "ICD311",
+      "term": "Bronchitis",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-12",
+      "updated_at": "2025-07-08"
+    },
+    {
+      "code": "TM312",
+      "term": "Leptospirosis",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-07-11",
+      "updated_at": "2025-07-27"
+    },
+    {
+      "code": "BIO313",
+      "term": "Cold",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-08-05",
+      "updated_at": "2025-08-10"
+    },
+    {
+      "code": "NA314",
+      "term": "Sciatica",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-30",
+      "updated_at": "2025-07-09"
+    },
+    {
+      "code": "TM315",
+      "term": "Influenza therapy",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-08-06",
+      "updated_at": "2025-08-26"
+    },
+    {
+      "code": "NA316",
+      "term": "Thyroid Disorder",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-03",
+      "updated_at": "2025-08-02"
+    },
+    {
+      "code": "ICD317",
+      "term": "Dengue",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-09",
+      "updated_at": "2025-09-04"
+    },
+    {
+      "code": "BIO318",
+      "term": "Cough",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-06-04",
+      "updated_at": "2025-06-24"
+    },
+    {
+      "code": "TM319",
+      "term": "Influenza",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-07-13",
+      "updated_at": "2025-08-02"
+    },
+    {
+      "code": "NA320",
+      "term": "Leptospirosis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-16",
+      "updated_at": "2025-07-23"
+    },
+    {
+      "code": "TM321",
+      "term": "Conjunctivitis",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-24",
+      "updated_at": "2025-08-07"
+    },
+    {
+      "code": "NA322",
+      "term": "UTI",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-21",
+      "updated_at": "2025-08-31"
+    },
+    {
+      "code": "BIO323",
+      "term": "Skin Rash",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-08-12",
+      "updated_at": "2025-09-05"
+    },
+    {
+      "code": "NA324",
+      "term": "Chickenpox",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-14",
+      "updated_at": "2025-07-17"
+    },
+    {
+      "code": "NA325",
+      "term": "COVID-19",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-16",
+      "updated_at": "2025-08-15"
+    },
+    {
+      "code": "NA326",
+      "term": "Tuberculosis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-17",
+      "updated_at": "2025-06-27"
+    },
+    {
+      "code": "BIO327",
+      "term": "Appendicitis",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-07-24",
+      "updated_at": "2025-08-07"
+    },
+    {
+      "code": "ICD328",
+      "term": "Dehydration",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-19",
+      "updated_at": "2025-08-02"
+    },
+    {
+      "code": "BIO329",
+      "term": "Anemia",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-14",
+      "updated_at": "2025-08-02"
+    },
+    {
+      "code": "BIO330",
+      "term": "Cholera",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-06-08",
+      "updated_at": "2025-06-11"
+    },
+    {
+      "code": "NA331",
+      "term": "Influenza",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-28",
+      "updated_at": "2025-07-29"
+    },
+    {
+      "code": "NA332",
+      "term": "Measles",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-14",
+      "updated_at": "2025-07-23"
+    },
+    {
+      "code": "NA333",
+      "term": "Insomnia",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-10",
+      "updated_at": "2025-09-05"
+    },
+    {
+      "code": "BIO334",
+      "term": "Conjunctivitis",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-11",
+      "updated_at": "2025-07-22"
+    },
+    {
+      "code": "TM335",
+      "term": "Burn",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-27",
+      "updated_at": "2025-08-15"
+    },
+    {
+      "code": "ICD336",
+      "term": "Insomnia due to virus",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-27",
+      "updated_at": "2025-07-12"
+    },
+    {
+      "code": "ICD337",
+      "term": "Malaria",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-18",
+      "updated_at": "2025-07-07"
+    },
+    {
+      "code": "NA338",
+      "term": "Ulcer",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-07-09",
+      "updated_at": "2025-07-19"
+    },
+    {
+      "code": "ICD339",
+      "term": "Insomnia",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-16",
+      "updated_at": "2025-08-11"
+    },
+    {
+      "code": "NA340",
+      "term": "Burn",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-15",
+      "updated_at": "2025-07-24"
+    },
+    {
+      "code": "TM341",
+      "term": "Appendicitis",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-30",
+      "updated_at": "2025-08-07"
+    },
+    {
+      "code": "BIO342",
+      "term": "Jaundice",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-07-30",
+      "updated_at": "2025-08-04"
+    },
+    {
+      "code": "ICD343",
+      "term": "Appendicitis",
+      "system": "ICD-11",
+      "mapped": false,
+      "created_at": "2025-06-17",
+      "updated_at": "2025-07-08"
+    },
+    {
+      "code": "NA344",
+      "term": "Measles",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-07-25",
+      "updated_at": "2025-07-25"
+    },
+    {
+      "code": "NA345",
+      "term": "Ear Infection",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-15",
+      "updated_at": "2025-07-31"
+    },
+    {
+      "code": "TM346",
+      "term": "Anxiety",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-06-20",
+      "updated_at": "2025-06-24"
+    },
+    {
+      "code": "ICD347",
+      "term": "Chickenpox",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-02",
+      "updated_at": "2025-08-12"
+    },
+    {
+      "code": "BIO348",
+      "term": "UTI",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-06",
+      "updated_at": "2025-07-30"
+    },
+    {
+      "code": "BIO349",
+      "term": "Conjunctivitis",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-31",
+      "updated_at": "2025-08-06"
+    },
+    {
+      "code": "BIO350",
+      "term": "Allergy",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-06-27",
+      "updated_at": "2025-07-06"
+    },
+    {
+      "code": "TM351",
+      "term": "Otitis Media",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-13",
+      "updated_at": "2025-08-11"
+    },
+    {
+      "code": "BIO352",
+      "term": "Appendicitis",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-08-03",
+      "updated_at": "2025-08-31"
+    },
+    {
+      "code": "BIO353",
+      "term": "Fracture",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-08-13",
+      "updated_at": "2025-08-22"
+    },
+    {
+      "code": "BIO354",
+      "term": "Stomachache",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-06-27",
+      "updated_at": "2025-07-12"
+    },
+    {
+      "code": "NA355",
+      "term": "Thyroid Disorder",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-15",
+      "updated_at": "2025-07-23"
+    },
+    {
+      "code": "NA356",
+      "term": "Tuberculosis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-28",
+      "updated_at": "2025-07-29"
+    },
+    {
+      "code": "TM357",
+      "term": "Obesity therapy",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-10",
+      "updated_at": "2025-07-20"
+    },
+    {
+      "code": "TM358",
+      "term": "Hypertension",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-06-29",
+      "updated_at": "2025-07-04"
+    },
+    {
+      "code": "NA359",
+      "term": "Anxiety",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-23",
+      "updated_at": "2025-07-23"
+    },
+    {
+      "code": "NA360",
+      "term": "Pneumonia",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-25",
+      "updated_at": "2025-07-13"
+    },
+    {
+      "code": "NA361",
+      "term": "Piles",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-05",
+      "updated_at": "2025-07-04"
+    },
+    {
+      "code": "NA362",
+      "term": "Migraine",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-06-10",
+      "updated_at": "2025-06-22"
+    },
+    {
+      "code": "TM363",
+      "term": "Migraine",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-06-20",
+      "updated_at": "2025-06-21"
+    },
+    {
+      "code": "NA364",
+      "term": "Measles",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-30",
+      "updated_at": "2025-08-13"
+    },
+    {
+      "code": "BIO365",
+      "term": "Thyroid Disorder",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-06-14",
+      "updated_at": "2025-06-30"
+    },
+    {
+      "code": "ICD366",
+      "term": "Back Pain",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-13",
+      "updated_at": "2025-07-21"
+    },
+    {
+      "code": "TM367",
+      "term": "Fever",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-07-16",
+      "updated_at": "2025-08-09"
+    },
+    {
+      "code": "NA368",
+      "term": "Tuberculosis",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-06-29",
+      "updated_at": "2025-07-12"
+    },
+    {
+      "code": "ICD369",
+      "term": "Stomachache",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-07-08",
+      "updated_at": "2025-07-18"
+    },
+    {
+      "code": "BIO370",
+      "term": "Fever",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-23",
+      "updated_at": "2025-08-01"
+    },
+    {
+      "code": "ICD371",
+      "term": "Measles due to unknown cause",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-09",
+      "updated_at": "2025-08-30"
+    },
+    {
+      "code": "NA372",
+      "term": "Dehydration",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-27",
+      "updated_at": "2025-07-25"
+    },
+    {
+      "code": "BIO373",
+      "term": "Dehydration",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-23",
+      "updated_at": "2025-08-11"
+    },
+    {
+      "code": "NA374",
+      "term": "Asthma",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-07",
+      "updated_at": "2025-07-26"
+    },
+    {
+      "code": "NA375",
+      "term": "Otitis Media",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-06",
+      "updated_at": "2025-07-23"
+    },
+    {
+      "code": "TM376",
+      "term": "Anemia",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-07-05",
+      "updated_at": "2025-07-30"
+    },
+    {
+      "code": "NA377",
+      "term": "Bronchitis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-14",
+      "updated_at": "2025-09-12"
+    },
+    {
+      "code": "ICD378",
+      "term": "Cold",
+      "system": "ICD-11",
+      "mapped": false,
+      "created_at": "2025-07-05",
+      "updated_at": "2025-07-22"
+    },
+    {
+      "code": "NA379",
+      "term": "Skin Rash",
+      "system": "NAMASTE",
+      "mapped": false,
+      "created_at": "2025-08-15",
+      "updated_at": "2025-09-05"
+    },
+    {
+      "code": "NA380",
+      "term": "Jaundice",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-28",
+      "updated_at": "2025-08-22"
+    },
+    {
+      "code": "NA381",
+      "term": "Asthma",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-18",
+      "updated_at": "2025-07-19"
+    },
+    {
+      "code": "ICD382",
+      "term": "Conjunctivitis",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-04",
+      "updated_at": "2025-08-30"
+    },
+    {
+      "code": "NA383",
+      "term": "Anemia",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-07",
+      "updated_at": "2025-07-18"
+    },
+    {
+      "code": "TM384",
+      "term": "Thyroid Disorder",
+      "system": "TM2",
+      "mapped": false,
+      "created_at": "2025-06-06",
+      "updated_at": "2025-06-21"
+    },
+    {
+      "code": "NA385",
+      "term": "Ear Infection",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-19",
+      "updated_at": "2025-07-09"
+    },
+    {
+      "code": "BIO386",
+      "term": "Cholera",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-22",
+      "updated_at": "2025-08-18"
+    },
+    {
+      "code": "BIO387",
+      "term": "Gastritis",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-08-19",
+      "updated_at": "2025-09-08"
+    },
+    {
+      "code": "BIO388",
+      "term": "Diabetes therapy",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-08-18",
+      "updated_at": "2025-09-10"
+    },
+    {
+      "code": "BIO389",
+      "term": "Fever",
+      "system": "BIO",
+      "mapped": false,
+      "created_at": "2025-07-11",
+      "updated_at": "2025-08-03"
+    },
+    {
+      "code": "ICD390",
+      "term": "Thyroid Disorder",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-08-01",
+      "updated_at": "2025-08-05"
+    },
+    {
+      "code": "NA391",
+      "term": "Appendicitis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-12",
+      "updated_at": "2025-07-03"
+    },
+    {
+      "code": "NA392",
+      "term": "Headache",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-29",
+      "updated_at": "2025-08-17"
+    },
+    {
+      "code": "NA393",
+      "term": "Hepatitis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-07-19",
+      "updated_at": "2025-08-11"
+    },
+    {
+      "code": "NA394",
+      "term": "Bronchitis",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-24",
+      "updated_at": "2025-07-21"
+    },
+    {
+      "code": "TM395",
+      "term": "Asthma",
+      "system": "TM2",
+      "mapped": true,
+      "created_at": "2025-08-08",
+      "updated_at": "2025-08-26"
+    },
+    {
+      "code": "ICD396",
+      "term": "Conjunctivitis",
+      "system": "ICD-11",
+      "mapped": true,
+      "created_at": "2025-06-26",
+      "updated_at": "2025-07-12"
+    },
+    {
+      "code": "NA397",
+      "term": "Dehydration",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-06-29",
+      "updated_at": "2025-07-17"
+    },
+    {
+      "code": "BIO398",
+      "term": "Migraine",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-08-22",
+      "updated_at": "2025-09-02"
+    },
+    {
+      "code": "BIO399",
+      "term": "Typhoid",
+      "system": "BIO",
+      "mapped": true,
+      "created_at": "2025-07-26",
+      "updated_at": "2025-07-30"
+    },
+    {
+      "code": "NA400",
+      "term": "Migraine",
+      "system": "NAMASTE",
+      "mapped": true,
+      "created_at": "2025-08-08",
+      "updated_at": "2025-09-04"
+    }
+  ],
+  "activity": [
+    {
+      "timestamp": "2025-08-31 03:12 PM",
+      "user": "QA Bot",
+      "action": "CSV Ingestion",
+      "details": "Ingested 182 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-31 02:49 PM",
+      "user": "Dr. Sharma",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-31 02:21 PM",
+      "user": "Dr. Patel",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 22 entries"
+    },
+    {
+      "timestamp": "2025-08-31 08:17 AM",
+      "user": "Admin Naveen",
+      "action": "Translation",
+      "details": "Translated 'Fever' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-31 08:13 AM",
+      "user": "System",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-31 05:54 AM",
+      "user": "Admin Naveen",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 4 entries"
+    },
+    {
+      "timestamp": "2025-08-31 02:40 AM",
+      "user": "Dr. Sharma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 6 entries"
+    },
+    {
+      "timestamp": "2025-08-31 12:18 AM",
+      "user": "Admin Naveen",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-30 11:40 PM",
+      "user": "Dr. Patel",
+      "action": "Code Search",
+      "details": "Searched for 'Hypertension'"
+    },
+    {
+      "timestamp": "2025-08-30 10:17 PM",
+      "user": "QA Bot",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-30 09:46 PM",
+      "user": "Dr. Rao",
+      "action": "Translation",
+      "details": "Translated 'Fever' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-30 07:55 PM",
+      "user": "System",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 13 entries"
+    },
+    {
+      "timestamp": "2025-08-30 05:49 PM",
+      "user": "Dr. Patel",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-30 03:00 PM",
+      "user": "Admin Naveen",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u0938\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-30 09:04 AM",
+      "user": "Dr. Iyer",
+      "action": "Mapping Update",
+      "details": "Mapped TM045 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-30 08:50 AM",
+      "user": "Admin Naveen",
+      "action": "Code Search",
+      "details": "Searched for 'Back Pain'"
+    },
+    {
+      "timestamp": "2025-08-30 08:10 AM",
+      "user": "Dr. Rao",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 8 entries"
+    },
+    {
+      "timestamp": "2025-08-30 06:53 AM",
+      "user": "Dr. Patel",
+      "action": "CSV Ingestion",
+      "details": "Ingested 57 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-30 03:05 AM",
+      "user": "System",
+      "action": "CSV Ingestion",
+      "details": "Ingested 194 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-29 11:28 PM",
+      "user": "Admin Naveen",
+      "action": "CSV Ingestion",
+      "details": "Ingested 118 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-29 10:53 PM",
+      "user": "Dr. Patel",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 14 entries"
+    },
+    {
+      "timestamp": "2025-08-29 08:31 PM",
+      "user": "Dr. Patel",
+      "action": "CSV Ingestion",
+      "details": "Ingested 174 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-29 08:05 PM",
+      "user": "QA Bot",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 23 entries"
+    },
+    {
+      "timestamp": "2025-08-29 07:51 PM",
+      "user": "Admin Naveen",
+      "action": "Code Search",
+      "details": "Searched for 'Hypertension'"
+    },
+    {
+      "timestamp": "2025-08-29 03:04 PM",
+      "user": "Dr. Sharma",
+      "action": "Code Search",
+      "details": "Searched for 'Gastritis'"
+    },
+    {
+      "timestamp": "2025-08-29 03:02 PM",
+      "user": "Nurse Asha",
+      "action": "Code Search",
+      "details": "Searched for 'Sprain'"
+    },
+    {
+      "timestamp": "2025-08-29 01:45 PM",
+      "user": "Dr. Rao",
+      "action": "Translation",
+      "details": "Translated 'Body Pain' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-29 12:35 PM",
+      "user": "Dr. Iyer",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-29 11:56 AM",
+      "user": "Dr. Sharma",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-29 11:14 AM",
+      "user": "Admin Naveen",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-29 10:14 AM",
+      "user": "Dr. Verma",
+      "action": "Code Search",
+      "details": "Searched for 'Anxiety'"
+    },
+    {
+      "timestamp": "2025-08-28 11:50 PM",
+      "user": "Admin Naveen",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 15 entries"
+    },
+    {
+      "timestamp": "2025-08-28 07:15 PM",
+      "user": "Dr. Singh",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 10 entries"
+    },
+    {
+      "timestamp": "2025-08-28 06:43 PM",
+      "user": "Dr. Iyer",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u0938\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-28 06:28 PM",
+      "user": "Dr. Singh",
+      "action": "CSV Ingestion",
+      "details": "Ingested 76 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-28 11:01 AM",
+      "user": "Nurse Asha",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 9 entries"
+    },
+    {
+      "timestamp": "2025-08-28 10:54 AM",
+      "user": "Dr. Patel",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 5 entries"
+    },
+    {
+      "timestamp": "2025-08-28 04:16 AM",
+      "user": "System",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 8 entries"
+    },
+    {
+      "timestamp": "2025-08-28 03:54 AM",
+      "user": "QA Bot",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u092a\u0947\u091f \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-27 09:35 PM",
+      "user": "Dr. Iyer",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-27 07:56 PM",
+      "user": "System",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-27 07:13 PM",
+      "user": "Dr. Verma",
+      "action": "CSV Ingestion",
+      "details": "Ingested 117 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-27 06:21 PM",
+      "user": "Dr. Verma",
+      "action": "Translation",
+      "details": "Translated 'Body Pain' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-27 02:37 PM",
+      "user": "System",
+      "action": "Translation",
+      "details": "Translated 'Stomachache' \u2192 '\u0936\u0930\u0940\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-27 12:46 PM",
+      "user": "System",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to ICD-11"
+    },
+    {
+      "timestamp": "2025-08-27 12:33 PM",
+      "user": "Dr. Rao",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 25 entries"
+    },
+    {
+      "timestamp": "2025-08-27 09:57 AM",
+      "user": "System",
+      "action": "CSV Ingestion",
+      "details": "Ingested 117 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-27 06:56 AM",
+      "user": "Dr. Verma",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-27 05:48 AM",
+      "user": "Dr. Verma",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-27 05:17 AM",
+      "user": "Dr. Sharma",
+      "action": "CSV Ingestion",
+      "details": "Ingested 96 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-27 12:03 AM",
+      "user": "Dr. Singh",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 9 entries"
+    },
+    {
+      "timestamp": "2025-08-26 10:53 PM",
+      "user": "Admin Naveen",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 22 entries"
+    },
+    {
+      "timestamp": "2025-08-26 09:44 PM",
+      "user": "Dr. Rao",
+      "action": "CSV Ingestion",
+      "details": "Ingested 86 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-26 06:05 PM",
+      "user": "Nurse Asha",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to ICD-11"
+    },
+    {
+      "timestamp": "2025-08-26 05:18 PM",
+      "user": "Dr. Verma",
+      "action": "Code Search",
+      "details": "Searched for 'Malaria'"
+    },
+    {
+      "timestamp": "2025-08-26 03:29 PM",
+      "user": "Dr. Singh",
+      "action": "Code Search",
+      "details": "Searched for 'Sprain'"
+    },
+    {
+      "timestamp": "2025-08-26 03:21 PM",
+      "user": "QA Bot",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u092a\u0947\u091f \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-26 12:37 PM",
+      "user": "Dr. Sharma",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-26 10:57 AM",
+      "user": "Dr. Sharma",
+      "action": "Translation",
+      "details": "Translated 'Body Pain' \u2192 '\u0936\u0930\u0940\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-26 10:26 AM",
+      "user": "Dr. Patel",
+      "action": "Code Search",
+      "details": "Searched for 'Typhoid'"
+    },
+    {
+      "timestamp": "2025-08-26 10:20 AM",
+      "user": "Dr. Patel",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-26 09:20 AM",
+      "user": "Nurse Asha",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-26 08:51 AM",
+      "user": "System",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-26 07:08 AM",
+      "user": "System",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 4 entries"
+    },
+    {
+      "timestamp": "2025-08-26 06:35 AM",
+      "user": "Dr. Singh",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 19 entries"
+    },
+    {
+      "timestamp": "2025-08-26 06:10 AM",
+      "user": "Admin Naveen",
+      "action": "CSV Ingestion",
+      "details": "Ingested 131 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-25 09:28 PM",
+      "user": "Dr. Singh",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 4 entries"
+    },
+    {
+      "timestamp": "2025-08-25 07:06 PM",
+      "user": "Dr. Verma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 19 entries"
+    },
+    {
+      "timestamp": "2025-08-25 02:27 PM",
+      "user": "System",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to ICD-11"
+    },
+    {
+      "timestamp": "2025-08-25 02:14 PM",
+      "user": "Dr. Verma",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-25 12:52 PM",
+      "user": "Dr. Rao",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 22 entries"
+    },
+    {
+      "timestamp": "2025-08-25 07:45 AM",
+      "user": "Dr. Iyer",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 23 entries"
+    },
+    {
+      "timestamp": "2025-08-25 05:43 AM",
+      "user": "Dr. Patel",
+      "action": "CSV Ingestion",
+      "details": "Ingested 81 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-25 03:54 AM",
+      "user": "Dr. Sharma",
+      "action": "Translation",
+      "details": "Translated 'Body Pain' \u2192 '\u0938\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-25 01:04 AM",
+      "user": "Nurse Asha",
+      "action": "Code Search",
+      "details": "Searched for 'Measles'"
+    },
+    {
+      "timestamp": "2025-08-25 12:35 AM",
+      "user": "System",
+      "action": "Translation",
+      "details": "Translated 'Stomachache' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-24 09:15 PM",
+      "user": "QA Bot",
+      "action": "Translation",
+      "details": "Translated 'Body Pain' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-24 08:54 PM",
+      "user": "System",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 16 entries"
+    },
+    {
+      "timestamp": "2025-08-24 08:46 PM",
+      "user": "Dr. Singh",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-24 08:03 PM",
+      "user": "QA Bot",
+      "action": "Translation",
+      "details": "Translated 'Body Pain' \u2192 '\u092a\u0947\u091f \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-24 07:35 PM",
+      "user": "System",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-24 06:23 PM",
+      "user": "Dr. Iyer",
+      "action": "Code Search",
+      "details": "Searched for 'Asthma'"
+    },
+    {
+      "timestamp": "2025-08-24 06:17 PM",
+      "user": "Nurse Asha",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-24 05:50 PM",
+      "user": "Dr. Singh",
+      "action": "CSV Ingestion",
+      "details": "Ingested 43 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-24 04:23 PM",
+      "user": "Dr. Patel",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-24 12:26 PM",
+      "user": "Dr. Iyer",
+      "action": "CSV Ingestion",
+      "details": "Ingested 34 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-24 10:28 AM",
+      "user": "Dr. Patel",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 3 entries"
+    },
+    {
+      "timestamp": "2025-08-24 06:38 AM",
+      "user": "Dr. Iyer",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to TM2"
+    },
+    {
+      "timestamp": "2025-08-23 06:59 PM",
+      "user": "Dr. Iyer",
+      "action": "CSV Ingestion",
+      "details": "Ingested 72 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-23 12:30 PM",
+      "user": "Dr. Verma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 25 entries"
+    },
+    {
+      "timestamp": "2025-08-23 09:49 AM",
+      "user": "QA Bot",
+      "action": "Translation",
+      "details": "Translated 'Stomachache' \u2192 '\u0936\u0930\u0940\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-23 07:27 AM",
+      "user": "Dr. Patel",
+      "action": "Translation",
+      "details": "Translated 'Stomachache' \u2192 '\u092a\u0947\u091f \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-23 05:06 AM",
+      "user": "Dr. Sharma",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-22 08:02 PM",
+      "user": "Dr. Singh",
+      "action": "Code Search",
+      "details": "Searched for 'Thyroid Disorder'"
+    },
+    {
+      "timestamp": "2025-08-22 07:12 PM",
+      "user": "QA Bot",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 19 entries"
+    },
+    {
+      "timestamp": "2025-08-22 03:44 PM",
+      "user": "Dr. Sharma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 19 entries"
+    },
+    {
+      "timestamp": "2025-08-22 01:39 PM",
+      "user": "System",
+      "action": "Mapping Update",
+      "details": "Mapped TM045 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-22 12:38 PM",
+      "user": "Dr. Singh",
+      "action": "Code Search",
+      "details": "Searched for 'Burn'"
+    },
+    {
+      "timestamp": "2025-08-22 12:15 PM",
+      "user": "Dr. Iyer",
+      "action": "CSV Ingestion",
+      "details": "Ingested 88 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-22 10:38 AM",
+      "user": "Dr. Sharma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 24 entries"
+    },
+    {
+      "timestamp": "2025-08-22 08:53 AM",
+      "user": "Dr. Verma",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-22 08:45 AM",
+      "user": "Dr. Verma",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u092a\u0947\u091f \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-22 06:30 AM",
+      "user": "Dr. Iyer",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 11 entries"
+    },
+    {
+      "timestamp": "2025-08-22 05:14 AM",
+      "user": "Dr. Sharma",
+      "action": "Code Search",
+      "details": "Searched for 'Burn'"
+    },
+    {
+      "timestamp": "2025-08-22 04:59 AM",
+      "user": "Dr. Iyer",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 21 entries"
+    },
+    {
+      "timestamp": "2025-08-22 03:16 AM",
+      "user": "Dr. Sharma",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-22 01:32 AM",
+      "user": "Dr. Rao",
+      "action": "CSV Ingestion",
+      "details": "Ingested 164 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-21 10:07 PM",
+      "user": "System",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-21 09:39 PM",
+      "user": "Dr. Singh",
+      "action": "Translation",
+      "details": "Translated 'Fever' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-21 08:34 PM",
+      "user": "Dr. Singh",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 9 entries"
+    },
+    {
+      "timestamp": "2025-08-21 07:51 PM",
+      "user": "QA Bot",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 1 entries"
+    },
+    {
+      "timestamp": "2025-08-21 05:05 PM",
+      "user": "Dr. Sharma",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u0936\u0930\u0940\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-21 01:46 PM",
+      "user": "Dr. Singh",
+      "action": "CSV Ingestion",
+      "details": "Ingested 137 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-21 01:16 PM",
+      "user": "Dr. Patel",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-21 10:37 AM",
+      "user": "Dr. Verma",
+      "action": "Code Search",
+      "details": "Searched for 'Sprain'"
+    },
+    {
+      "timestamp": "2025-08-21 08:55 AM",
+      "user": "QA Bot",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 16 entries"
+    },
+    {
+      "timestamp": "2025-08-21 07:21 AM",
+      "user": "Nurse Asha",
+      "action": "CSV Ingestion",
+      "details": "Ingested 199 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-21 06:30 AM",
+      "user": "Dr. Verma",
+      "action": "Translation",
+      "details": "Translated 'Body Pain' \u2192 '\u0938\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-21 05:34 AM",
+      "user": "Admin Naveen",
+      "action": "Code Search",
+      "details": "Searched for 'Back Pain'"
+    },
+    {
+      "timestamp": "2025-08-21 02:51 AM",
+      "user": "Dr. Sharma",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to TM2"
+    },
+    {
+      "timestamp": "2025-08-21 12:48 AM",
+      "user": "QA Bot",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to ICD-11"
+    },
+    {
+      "timestamp": "2025-08-20 05:37 PM",
+      "user": "Dr. Patel",
+      "action": "CSV Ingestion",
+      "details": "Ingested 73 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-20 05:03 PM",
+      "user": "System",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u0936\u0930\u0940\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-20 03:54 PM",
+      "user": "Admin Naveen",
+      "action": "Translation",
+      "details": "Translated 'Stomachache' \u2192 '\u092a\u0947\u091f \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-20 03:23 PM",
+      "user": "System",
+      "action": "Code Search",
+      "details": "Searched for 'Jaundice'"
+    },
+    {
+      "timestamp": "2025-08-20 03:09 PM",
+      "user": "Dr. Singh",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to TM2"
+    },
+    {
+      "timestamp": "2025-08-20 12:41 PM",
+      "user": "Dr. Patel",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to TM2"
+    },
+    {
+      "timestamp": "2025-08-20 12:02 PM",
+      "user": "Dr. Patel",
+      "action": "CSV Ingestion",
+      "details": "Ingested 196 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-20 10:58 AM",
+      "user": "Nurse Asha",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-20 10:42 AM",
+      "user": "Dr. Verma",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-20 09:35 AM",
+      "user": "QA Bot",
+      "action": "CSV Ingestion",
+      "details": "Ingested 130 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-20 08:02 AM",
+      "user": "QA Bot",
+      "action": "CSV Ingestion",
+      "details": "Ingested 61 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-20 06:28 AM",
+      "user": "Admin Naveen",
+      "action": "Code Search",
+      "details": "Searched for 'Conjunctivitis'"
+    },
+    {
+      "timestamp": "2025-08-20 04:54 AM",
+      "user": "Admin Naveen",
+      "action": "CSV Ingestion",
+      "details": "Ingested 97 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-20 04:12 AM",
+      "user": "System",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 22 entries"
+    },
+    {
+      "timestamp": "2025-08-20 03:27 AM",
+      "user": "Dr. Patel",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-20 12:25 AM",
+      "user": "Dr. Verma",
+      "action": "Code Search",
+      "details": "Searched for 'COVID-19'"
+    },
+    {
+      "timestamp": "2025-08-19 09:56 PM",
+      "user": "Dr. Verma",
+      "action": "Code Search",
+      "details": "Searched for 'Stomachache'"
+    },
+    {
+      "timestamp": "2025-08-19 09:01 PM",
+      "user": "Dr. Patel",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u0936\u0930\u0940\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-19 08:32 PM",
+      "user": "Dr. Sharma",
+      "action": "Translation",
+      "details": "Translated 'Body Pain' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-19 02:16 PM",
+      "user": "Dr. Rao",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-19 02:12 PM",
+      "user": "QA Bot",
+      "action": "Translation",
+      "details": "Translated 'Fever' \u2192 '\u092a\u0947\u091f \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-19 01:54 PM",
+      "user": "Dr. Iyer",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-19 10:49 AM",
+      "user": "Dr. Patel",
+      "action": "Mapping Update",
+      "details": "Mapped TM045 to ICD-11"
+    },
+    {
+      "timestamp": "2025-08-19 10:32 AM",
+      "user": "Nurse Asha",
+      "action": "Translation",
+      "details": "Translated 'Stomachache' \u2192 '\u0936\u0930\u0940\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-19 09:13 AM",
+      "user": "Dr. Verma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 4 entries"
+    },
+    {
+      "timestamp": "2025-08-19 06:23 AM",
+      "user": "Dr. Singh",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-19 05:06 AM",
+      "user": "System",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-19 04:00 AM",
+      "user": "Nurse Asha",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-19 03:52 AM",
+      "user": "System",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-19 02:41 AM",
+      "user": "QA Bot",
+      "action": "CSV Ingestion",
+      "details": "Ingested 155 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-19 02:21 AM",
+      "user": "Dr. Patel",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-19 01:59 AM",
+      "user": "System",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-18 10:23 AM",
+      "user": "System",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 12 entries"
+    },
+    {
+      "timestamp": "2025-08-18 10:00 AM",
+      "user": "QA Bot",
+      "action": "Code Search",
+      "details": "Searched for 'Sciatica'"
+    },
+    {
+      "timestamp": "2025-08-18 09:40 AM",
+      "user": "Nurse Asha",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u0936\u0930\u0940\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-18 09:21 AM",
+      "user": "Dr. Singh",
+      "action": "Mapping Update",
+      "details": "Mapped TM045 to ICD-11"
+    },
+    {
+      "timestamp": "2025-08-18 09:00 AM",
+      "user": "Dr. Rao",
+      "action": "CSV Ingestion",
+      "details": "Ingested 61 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-18 08:26 AM",
+      "user": "Dr. Iyer",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-18 07:43 AM",
+      "user": "Dr. Sharma",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-18 02:18 AM",
+      "user": "Dr. Sharma",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-18 01:44 AM",
+      "user": "QA Bot",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to TM2"
+    },
+    {
+      "timestamp": "2025-08-18 01:34 AM",
+      "user": "QA Bot",
+      "action": "CSV Ingestion",
+      "details": "Ingested 55 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-17 02:14 PM",
+      "user": "Dr. Sharma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 6 entries"
+    },
+    {
+      "timestamp": "2025-08-17 01:00 PM",
+      "user": "Dr. Rao",
+      "action": "CSV Ingestion",
+      "details": "Ingested 35 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-17 09:38 AM",
+      "user": "Dr. Singh",
+      "action": "CSV Ingestion",
+      "details": "Ingested 99 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-17 07:47 AM",
+      "user": "QA Bot",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-17 07:10 AM",
+      "user": "System",
+      "action": "CSV Ingestion",
+      "details": "Ingested 73 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-17 07:02 AM",
+      "user": "Dr. Rao",
+      "action": "Translation",
+      "details": "Translated 'Body Pain' \u2192 '\u0938\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-17 03:03 AM",
+      "user": "Dr. Singh",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 11 entries"
+    },
+    {
+      "timestamp": "2025-08-17 01:50 AM",
+      "user": "Dr. Iyer",
+      "action": "Translation",
+      "details": "Translated 'Body Pain' \u2192 '\u0936\u0930\u0940\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-16 09:19 PM",
+      "user": "Admin Naveen",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-16 08:06 PM",
+      "user": "Dr. Verma",
+      "action": "CSV Ingestion",
+      "details": "Ingested 79 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-16 07:57 PM",
+      "user": "Dr. Singh",
+      "action": "Mapping Update",
+      "details": "Mapped TM045 to ICD-11"
+    },
+    {
+      "timestamp": "2025-08-16 07:47 PM",
+      "user": "Dr. Sharma",
+      "action": "Code Search",
+      "details": "Searched for 'Influenza'"
+    },
+    {
+      "timestamp": "2025-08-16 06:48 PM",
+      "user": "Dr. Singh",
+      "action": "CSV Ingestion",
+      "details": "Ingested 187 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-16 04:09 PM",
+      "user": "Dr. Singh",
+      "action": "CSV Ingestion",
+      "details": "Ingested 160 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-16 12:45 PM",
+      "user": "Dr. Sharma",
+      "action": "Code Search",
+      "details": "Searched for 'Measles'"
+    },
+    {
+      "timestamp": "2025-08-16 09:39 AM",
+      "user": "Dr. Sharma",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to TM2"
+    },
+    {
+      "timestamp": "2025-08-16 08:43 AM",
+      "user": "Dr. Patel",
+      "action": "Mapping Update",
+      "details": "Mapped TM045 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-16 05:08 AM",
+      "user": "Admin Naveen",
+      "action": "Mapping Update",
+      "details": "Mapped TM045 to TM2"
+    },
+    {
+      "timestamp": "2025-08-16 04:34 AM",
+      "user": "System",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to TM2"
+    },
+    {
+      "timestamp": "2025-08-16 12:04 AM",
+      "user": "Dr. Sharma",
+      "action": "Code Search",
+      "details": "Searched for 'Stomachache'"
+    },
+    {
+      "timestamp": "2025-08-15 11:12 PM",
+      "user": "System",
+      "action": "Code Search",
+      "details": "Searched for 'Stomachache'"
+    },
+    {
+      "timestamp": "2025-08-15 10:16 PM",
+      "user": "Dr. Patel",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-15 09:46 PM",
+      "user": "System",
+      "action": "CSV Ingestion",
+      "details": "Ingested 115 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-15 09:28 PM",
+      "user": "Dr. Iyer",
+      "action": "CSV Ingestion",
+      "details": "Ingested 52 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-15 07:56 PM",
+      "user": "Dr. Iyer",
+      "action": "Translation",
+      "details": "Translated 'Stomachache' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-15 03:26 PM",
+      "user": "Dr. Sharma",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to ICD-11"
+    },
+    {
+      "timestamp": "2025-08-15 12:07 PM",
+      "user": "Dr. Sharma",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to ICD-11"
+    },
+    {
+      "timestamp": "2025-08-15 11:44 AM",
+      "user": "Dr. Rao",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 3 entries"
+    },
+    {
+      "timestamp": "2025-08-15 10:32 AM",
+      "user": "QA Bot",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to TM2"
+    },
+    {
+      "timestamp": "2025-08-15 07:49 AM",
+      "user": "System",
+      "action": "Mapping Update",
+      "details": "Mapped TM045 to ICD-11"
+    },
+    {
+      "timestamp": "2025-08-15 07:35 AM",
+      "user": "Dr. Patel",
+      "action": "CSV Ingestion",
+      "details": "Ingested 46 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-15 04:01 AM",
+      "user": "System",
+      "action": "Code Search",
+      "details": "Searched for 'Appendicitis'"
+    },
+    {
+      "timestamp": "2025-08-15 03:33 AM",
+      "user": "Dr. Iyer",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-15 01:05 AM",
+      "user": "Nurse Asha",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to ICD-11"
+    },
+    {
+      "timestamp": "2025-08-15 12:19 AM",
+      "user": "Dr. Sharma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 19 entries"
+    },
+    {
+      "timestamp": "2025-08-14 08:07 PM",
+      "user": "Dr. Patel",
+      "action": "Code Search",
+      "details": "Searched for 'Dengue'"
+    },
+    {
+      "timestamp": "2025-08-14 03:29 PM",
+      "user": "Admin Naveen",
+      "action": "Translation",
+      "details": "Translated 'Body Pain' \u2192 '\u0936\u0930\u0940\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-14 03:18 PM",
+      "user": "Dr. Patel",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 17 entries"
+    },
+    {
+      "timestamp": "2025-08-14 02:39 PM",
+      "user": "Dr. Singh",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to ICD-11"
+    },
+    {
+      "timestamp": "2025-08-14 02:34 PM",
+      "user": "Dr. Singh",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 12 entries"
+    },
+    {
+      "timestamp": "2025-08-14 02:03 PM",
+      "user": "System",
+      "action": "Translation",
+      "details": "Translated 'Fever' \u2192 '\u0938\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-14 12:09 PM",
+      "user": "Dr. Rao",
+      "action": "CSV Ingestion",
+      "details": "Ingested 136 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-14 11:06 AM",
+      "user": "Dr. Singh",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u0938\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-14 10:41 AM",
+      "user": "Dr. Rao",
+      "action": "Translation",
+      "details": "Translated 'Body Pain' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-14 08:05 AM",
+      "user": "Nurse Asha",
+      "action": "CSV Ingestion",
+      "details": "Ingested 24 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-14 07:12 AM",
+      "user": "Dr. Verma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 17 entries"
+    },
+    {
+      "timestamp": "2025-08-14 03:50 AM",
+      "user": "Dr. Patel",
+      "action": "Code Search",
+      "details": "Searched for 'Conjunctivitis'"
+    },
+    {
+      "timestamp": "2025-08-14 02:18 AM",
+      "user": "Dr. Patel",
+      "action": "Code Search",
+      "details": "Searched for 'Migraine'"
+    },
+    {
+      "timestamp": "2025-08-13 11:27 PM",
+      "user": "Dr. Iyer",
+      "action": "Code Search",
+      "details": "Searched for 'Sprain'"
+    },
+    {
+      "timestamp": "2025-08-13 06:53 PM",
+      "user": "Dr. Sharma",
+      "action": "CSV Ingestion",
+      "details": "Ingested 164 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-13 06:12 PM",
+      "user": "Dr. Verma",
+      "action": "Code Search",
+      "details": "Searched for 'Bronchitis'"
+    },
+    {
+      "timestamp": "2025-08-13 05:28 PM",
+      "user": "Dr. Sharma",
+      "action": "Code Search",
+      "details": "Searched for 'Ulcer'"
+    },
+    {
+      "timestamp": "2025-08-13 02:02 PM",
+      "user": "Dr. Sharma",
+      "action": "Translation",
+      "details": "Translated 'Body Pain' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-13 01:21 PM",
+      "user": "Dr. Iyer",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to TM2"
+    },
+    {
+      "timestamp": "2025-08-13 11:48 AM",
+      "user": "Dr. Iyer",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 24 entries"
+    },
+    {
+      "timestamp": "2025-08-13 10:00 AM",
+      "user": "Dr. Iyer",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to TM2"
+    },
+    {
+      "timestamp": "2025-08-13 05:15 AM",
+      "user": "QA Bot",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-13 03:05 AM",
+      "user": "Dr. Patel",
+      "action": "Code Search",
+      "details": "Searched for 'Asthma'"
+    },
+    {
+      "timestamp": "2025-08-13 01:53 AM",
+      "user": "Dr. Sharma",
+      "action": "CSV Ingestion",
+      "details": "Ingested 99 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-13 01:12 AM",
+      "user": "Dr. Rao",
+      "action": "CSV Ingestion",
+      "details": "Ingested 62 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-13 01:11 AM",
+      "user": "QA Bot",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 17 entries"
+    },
+    {
+      "timestamp": "2025-08-13 12:46 AM",
+      "user": "Dr. Rao",
+      "action": "CSV Ingestion",
+      "details": "Ingested 156 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-13 12:23 AM",
+      "user": "Dr. Verma",
+      "action": "Code Search",
+      "details": "Searched for 'Bronchitis'"
+    },
+    {
+      "timestamp": "2025-08-12 08:10 PM",
+      "user": "Nurse Asha",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-12 04:10 PM",
+      "user": "Nurse Asha",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 22 entries"
+    },
+    {
+      "timestamp": "2025-08-12 02:01 PM",
+      "user": "Dr. Patel",
+      "action": "Code Search",
+      "details": "Searched for 'Sinusitis'"
+    },
+    {
+      "timestamp": "2025-08-12 09:13 AM",
+      "user": "Dr. Patel",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-12 02:07 AM",
+      "user": "Dr. Sharma",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-12 01:48 AM",
+      "user": "Dr. Verma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 14 entries"
+    },
+    {
+      "timestamp": "2025-08-11 10:49 PM",
+      "user": "Dr. Sharma",
+      "action": "Code Search",
+      "details": "Searched for 'Cough'"
+    },
+    {
+      "timestamp": "2025-08-11 10:32 PM",
+      "user": "Dr. Verma",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-11 09:34 PM",
+      "user": "Dr. Verma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 24 entries"
+    },
+    {
+      "timestamp": "2025-08-11 08:42 PM",
+      "user": "Dr. Sharma",
+      "action": "CSV Ingestion",
+      "details": "Ingested 184 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-11 04:56 PM",
+      "user": "Dr. Verma",
+      "action": "CSV Ingestion",
+      "details": "Ingested 77 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-11 02:37 PM",
+      "user": "QA Bot",
+      "action": "Code Search",
+      "details": "Searched for 'Piles'"
+    },
+    {
+      "timestamp": "2025-08-11 02:13 PM",
+      "user": "System",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-11 06:46 AM",
+      "user": "QA Bot",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-11 03:22 AM",
+      "user": "Dr. Singh",
+      "action": "CSV Ingestion",
+      "details": "Ingested 97 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-11 01:07 AM",
+      "user": "Dr. Sharma",
+      "action": "CSV Ingestion",
+      "details": "Ingested 40 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-11 01:06 AM",
+      "user": "Dr. Singh",
+      "action": "Mapping Update",
+      "details": "Mapped TM045 to TM2"
+    },
+    {
+      "timestamp": "2025-08-11 12:51 AM",
+      "user": "Dr. Sharma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 17 entries"
+    },
+    {
+      "timestamp": "2025-08-10 08:44 PM",
+      "user": "QA Bot",
+      "action": "Translation",
+      "details": "Translated 'Body Pain' \u2192 '\u092a\u0947\u091f \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-10 08:10 PM",
+      "user": "Dr. Patel",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to ICD-11"
+    },
+    {
+      "timestamp": "2025-08-10 06:00 PM",
+      "user": "System",
+      "action": "Translation",
+      "details": "Translated 'Stomachache' \u2192 '\u0936\u0930\u0940\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-10 05:47 PM",
+      "user": "Dr. Verma",
+      "action": "CSV Ingestion",
+      "details": "Ingested 179 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-10 11:41 AM",
+      "user": "Dr. Iyer",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to ICD-11"
+    },
+    {
+      "timestamp": "2025-08-10 05:55 AM",
+      "user": "Dr. Patel",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 22 entries"
+    },
+    {
+      "timestamp": "2025-08-10 03:31 AM",
+      "user": "Dr. Sharma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 1 entries"
+    },
+    {
+      "timestamp": "2025-08-10 03:18 AM",
+      "user": "Dr. Singh",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 18 entries"
+    },
+    {
+      "timestamp": "2025-08-10 01:23 AM",
+      "user": "System",
+      "action": "CSV Ingestion",
+      "details": "Ingested 132 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-10 12:25 AM",
+      "user": "System",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to TM2"
+    },
+    {
+      "timestamp": "2025-08-10 12:24 AM",
+      "user": "Dr. Rao",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-09 09:15 PM",
+      "user": "Dr. Verma",
+      "action": "Translation",
+      "details": "Translated 'Stomachache' \u2192 '\u092a\u0947\u091f \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-09 06:07 PM",
+      "user": "Dr. Iyer",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 11 entries"
+    },
+    {
+      "timestamp": "2025-08-09 05:30 PM",
+      "user": "Dr. Patel",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to ICD-11"
+    },
+    {
+      "timestamp": "2025-08-09 04:57 PM",
+      "user": "QA Bot",
+      "action": "CSV Ingestion",
+      "details": "Ingested 24 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-09 12:38 PM",
+      "user": "Dr. Patel",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-09 10:25 AM",
+      "user": "Dr. Sharma",
+      "action": "Translation",
+      "details": "Translated 'Fever' \u2192 '\u0938\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-09 10:23 AM",
+      "user": "Dr. Sharma",
+      "action": "Mapping Update",
+      "details": "Mapped TM045 to TM2"
+    },
+    {
+      "timestamp": "2025-08-09 09:49 AM",
+      "user": "Nurse Asha",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 10 entries"
+    },
+    {
+      "timestamp": "2025-08-09 09:00 AM",
+      "user": "Dr. Singh",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-09 05:29 AM",
+      "user": "Dr. Patel",
+      "action": "CSV Ingestion",
+      "details": "Ingested 88 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-09 03:43 AM",
+      "user": "QA Bot",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 24 entries"
+    },
+    {
+      "timestamp": "2025-08-09 03:36 AM",
+      "user": "Admin Naveen",
+      "action": "Code Search",
+      "details": "Searched for 'Sciatica'"
+    },
+    {
+      "timestamp": "2025-08-09 02:51 AM",
+      "user": "Dr. Patel",
+      "action": "Code Search",
+      "details": "Searched for 'Constipation'"
+    },
+    {
+      "timestamp": "2025-08-09 02:45 AM",
+      "user": "QA Bot",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-09 02:25 AM",
+      "user": "Dr. Verma",
+      "action": "CSV Ingestion",
+      "details": "Ingested 46 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-09 12:51 AM",
+      "user": "Dr. Patel",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-09 12:14 AM",
+      "user": "Admin Naveen",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 6 entries"
+    },
+    {
+      "timestamp": "2025-08-08 11:29 PM",
+      "user": "QA Bot",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-08 05:12 PM",
+      "user": "Dr. Patel",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-08 03:38 PM",
+      "user": "Dr. Singh",
+      "action": "CSV Ingestion",
+      "details": "Ingested 200 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-08 11:35 AM",
+      "user": "Dr. Rao",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 3 entries"
+    },
+    {
+      "timestamp": "2025-08-08 10:56 AM",
+      "user": "Dr. Patel",
+      "action": "Code Search",
+      "details": "Searched for 'Sinusitis'"
+    },
+    {
+      "timestamp": "2025-08-08 10:24 AM",
+      "user": "Dr. Sharma",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-08 09:53 AM",
+      "user": "Dr. Sharma",
+      "action": "CSV Ingestion",
+      "details": "Ingested 40 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-08 08:04 AM",
+      "user": "Dr. Iyer",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-08 07:57 AM",
+      "user": "Dr. Patel",
+      "action": "Mapping Update",
+      "details": "Mapped TM045 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-08 04:17 AM",
+      "user": "Dr. Singh",
+      "action": "CSV Ingestion",
+      "details": "Ingested 101 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-08 04:05 AM",
+      "user": "Admin Naveen",
+      "action": "Translation",
+      "details": "Translated 'Fever' \u2192 '\u0936\u0930\u0940\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-08 02:23 AM",
+      "user": "Dr. Rao",
+      "action": "Translation",
+      "details": "Translated 'Stomachache' \u2192 '\u092a\u0947\u091f \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-08 02:01 AM",
+      "user": "Dr. Patel",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 9 entries"
+    },
+    {
+      "timestamp": "2025-08-08 02:00 AM",
+      "user": "Dr. Patel",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to TM2"
+    },
+    {
+      "timestamp": "2025-08-08 12:10 AM",
+      "user": "Dr. Singh",
+      "action": "Code Search",
+      "details": "Searched for 'Chickenpox'"
+    },
+    {
+      "timestamp": "2025-08-07 09:38 PM",
+      "user": "Nurse Asha",
+      "action": "CSV Ingestion",
+      "details": "Ingested 180 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-07 09:03 PM",
+      "user": "Dr. Verma",
+      "action": "CSV Ingestion",
+      "details": "Ingested 136 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-07 07:27 PM",
+      "user": "Dr. Sharma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 20 entries"
+    },
+    {
+      "timestamp": "2025-08-07 07:07 PM",
+      "user": "Dr. Iyer",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-07 07:03 PM",
+      "user": "Dr. Iyer",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-07 04:02 PM",
+      "user": "QA Bot",
+      "action": "CSV Ingestion",
+      "details": "Ingested 124 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-07 03:51 PM",
+      "user": "Dr. Rao",
+      "action": "Translation",
+      "details": "Translated 'Stomachache' \u2192 '\u0936\u0930\u0940\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-07 03:48 PM",
+      "user": "System",
+      "action": "Code Search",
+      "details": "Searched for 'Insomnia'"
+    },
+    {
+      "timestamp": "2025-08-07 03:04 PM",
+      "user": "Dr. Sharma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 18 entries"
+    },
+    {
+      "timestamp": "2025-08-07 02:58 PM",
+      "user": "QA Bot",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-07 01:58 PM",
+      "user": "QA Bot",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 2 entries"
+    },
+    {
+      "timestamp": "2025-08-07 12:03 PM",
+      "user": "Dr. Verma",
+      "action": "Translation",
+      "details": "Translated 'Body Pain' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-07 11:52 AM",
+      "user": "Dr. Verma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 12 entries"
+    },
+    {
+      "timestamp": "2025-08-07 10:36 AM",
+      "user": "Admin Naveen",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-07 09:59 AM",
+      "user": "System",
+      "action": "Translation",
+      "details": "Translated 'Stomachache' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-07 09:41 AM",
+      "user": "Dr. Singh",
+      "action": "CSV Ingestion",
+      "details": "Ingested 60 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-07 08:17 AM",
+      "user": "Dr. Sharma",
+      "action": "CSV Ingestion",
+      "details": "Ingested 100 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-07 08:09 AM",
+      "user": "Nurse Asha",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 11 entries"
+    },
+    {
+      "timestamp": "2025-08-06 10:45 PM",
+      "user": "Dr. Patel",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 2 entries"
+    },
+    {
+      "timestamp": "2025-08-06 09:30 PM",
+      "user": "Dr. Patel",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u0938\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-06 04:45 PM",
+      "user": "Dr. Iyer",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u0936\u0930\u0940\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-06 04:40 PM",
+      "user": "Dr. Iyer",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 8 entries"
+    },
+    {
+      "timestamp": "2025-08-06 03:13 PM",
+      "user": "Dr. Singh",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-06 03:08 PM",
+      "user": "System",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-06 02:34 PM",
+      "user": "Dr. Verma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 16 entries"
+    },
+    {
+      "timestamp": "2025-08-06 02:22 PM",
+      "user": "Dr. Sharma",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to ICD-11"
+    },
+    {
+      "timestamp": "2025-08-06 02:05 PM",
+      "user": "Dr. Patel",
+      "action": "CSV Ingestion",
+      "details": "Ingested 185 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-06 01:05 PM",
+      "user": "Dr. Verma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 20 entries"
+    },
+    {
+      "timestamp": "2025-08-06 01:03 PM",
+      "user": "Dr. Sharma",
+      "action": "Mapping Update",
+      "details": "Mapped TM045 to TM2"
+    },
+    {
+      "timestamp": "2025-08-06 12:41 PM",
+      "user": "QA Bot",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-06 04:37 AM",
+      "user": "Dr. Patel",
+      "action": "Code Search",
+      "details": "Searched for 'Ulcer'"
+    },
+    {
+      "timestamp": "2025-08-06 03:06 AM",
+      "user": "Dr. Sharma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 11 entries"
+    },
+    {
+      "timestamp": "2025-08-06 12:20 AM",
+      "user": "Dr. Patel",
+      "action": "CSV Ingestion",
+      "details": "Ingested 161 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-05 11:39 PM",
+      "user": "System",
+      "action": "Mapping Update",
+      "details": "Mapped TM045 to ICD-11"
+    },
+    {
+      "timestamp": "2025-08-05 11:20 PM",
+      "user": "Dr. Patel",
+      "action": "CSV Ingestion",
+      "details": "Ingested 96 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-05 11:12 PM",
+      "user": "Dr. Patel",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-05 09:39 PM",
+      "user": "Dr. Rao",
+      "action": "CSV Ingestion",
+      "details": "Ingested 179 codes from lab_mappings.csv"
+    },
+    {
+      "timestamp": "2025-08-05 08:44 PM",
+      "user": "QA Bot",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-05 06:25 PM",
+      "user": "QA Bot",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u0936\u0930\u0940\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-05 05:42 PM",
+      "user": "System",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-05 04:40 PM",
+      "user": "Dr. Patel",
+      "action": "CSV Ingestion",
+      "details": "Ingested 158 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-05 03:45 PM",
+      "user": "Dr. Patel",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-05 02:53 PM",
+      "user": "Dr. Patel",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 3 entries"
+    },
+    {
+      "timestamp": "2025-08-05 12:44 PM",
+      "user": "Dr. Rao",
+      "action": "CSV Ingestion",
+      "details": "Ingested 41 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-05 12:31 PM",
+      "user": "Dr. Iyer",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 21 entries"
+    },
+    {
+      "timestamp": "2025-08-05 12:27 PM",
+      "user": "System",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-05 07:41 AM",
+      "user": "QA Bot",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-05 06:12 AM",
+      "user": "Dr. Sharma",
+      "action": "Translation",
+      "details": "Translated 'Stomachache' \u2192 '\u0938\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-05 06:05 AM",
+      "user": "Dr. Verma",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-05 04:38 AM",
+      "user": "Nurse Asha",
+      "action": "Code Search",
+      "details": "Searched for 'Sprain'"
+    },
+    {
+      "timestamp": "2025-08-05 02:55 AM",
+      "user": "Admin Naveen",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to TM2"
+    },
+    {
+      "timestamp": "2025-08-05 01:54 AM",
+      "user": "Admin Naveen",
+      "action": "CSV Ingestion",
+      "details": "Ingested 39 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-04 09:55 PM",
+      "user": "Dr. Rao",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-04 07:59 PM",
+      "user": "System",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-04 07:22 PM",
+      "user": "Nurse Asha",
+      "action": "CSV Ingestion",
+      "details": "Ingested 33 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-04 03:23 PM",
+      "user": "Nurse Asha",
+      "action": "Code Search",
+      "details": "Searched for 'Burn'"
+    },
+    {
+      "timestamp": "2025-08-04 01:38 PM",
+      "user": "Dr. Patel",
+      "action": "Translation",
+      "details": "Translated 'Stomachache' \u2192 '\u0938\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-04 01:02 PM",
+      "user": "Dr. Patel",
+      "action": "Code Search",
+      "details": "Searched for 'Fever'"
+    },
+    {
+      "timestamp": "2025-08-04 12:30 PM",
+      "user": "Dr. Verma",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-04 10:58 AM",
+      "user": "System",
+      "action": "Translation",
+      "details": "Translated 'Fever' \u2192 '\u092a\u0947\u091f \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-04 08:34 AM",
+      "user": "Dr. Singh",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 22 entries"
+    },
+    {
+      "timestamp": "2025-08-04 08:18 AM",
+      "user": "Dr. Singh",
+      "action": "CSV Ingestion",
+      "details": "Ingested 99 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-04 06:59 AM",
+      "user": "Dr. Verma",
+      "action": "Code Search",
+      "details": "Searched for 'Appendicitis'"
+    },
+    {
+      "timestamp": "2025-08-04 06:15 AM",
+      "user": "Dr. Verma",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-04 06:04 AM",
+      "user": "Dr. Patel",
+      "action": "Mapping Update",
+      "details": "Mapped TM045 to TM2"
+    },
+    {
+      "timestamp": "2025-08-04 05:01 AM",
+      "user": "Dr. Verma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 24 entries"
+    },
+    {
+      "timestamp": "2025-08-04 04:03 AM",
+      "user": "Dr. Singh",
+      "action": "CSV Ingestion",
+      "details": "Ingested 94 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-04 03:06 AM",
+      "user": "Dr. Sharma",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-04 12:53 AM",
+      "user": "Nurse Asha",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-03 10:25 PM",
+      "user": "Admin Naveen",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-03 05:26 PM",
+      "user": "Dr. Sharma",
+      "action": "Translation",
+      "details": "Translated 'Fever' \u2192 '\u092a\u0947\u091f \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-03 05:08 PM",
+      "user": "Dr. Iyer",
+      "action": "Translation",
+      "details": "Translated 'Stomachache' \u2192 '\u0936\u0930\u0940\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-03 02:32 PM",
+      "user": "Dr. Singh",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to TM2"
+    },
+    {
+      "timestamp": "2025-08-03 02:27 PM",
+      "user": "Dr. Singh",
+      "action": "Code Search",
+      "details": "Searched for 'Depression'"
+    },
+    {
+      "timestamp": "2025-08-03 02:23 PM",
+      "user": "Dr. Patel",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u092a\u0947\u091f \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-03 01:22 PM",
+      "user": "Dr. Sharma",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to NAMASTE"
+    },
+    {
+      "timestamp": "2025-08-03 09:25 AM",
+      "user": "Dr. Iyer",
+      "action": "CSV Ingestion",
+      "details": "Ingested 115 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-03 09:01 AM",
+      "user": "Dr. Rao",
+      "action": "CSV Ingestion",
+      "details": "Ingested 64 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-03 08:31 AM",
+      "user": "Dr. Iyer",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 5 entries"
+    },
+    {
+      "timestamp": "2025-08-03 08:24 AM",
+      "user": "Dr. Patel",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-03 07:52 AM",
+      "user": "Dr. Rao",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-03 03:08 AM",
+      "user": "QA Bot",
+      "action": "Mapping Update",
+      "details": "Mapped TM045 to TM2"
+    },
+    {
+      "timestamp": "2025-08-03 12:28 AM",
+      "user": "Dr. Iyer",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 18 entries"
+    },
+    {
+      "timestamp": "2025-08-02 07:57 PM",
+      "user": "Nurse Asha",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-02 07:39 PM",
+      "user": "Dr. Sharma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 5 entries"
+    },
+    {
+      "timestamp": "2025-08-02 07:31 PM",
+      "user": "Dr. Verma",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-02 04:27 PM",
+      "user": "Nurse Asha",
+      "action": "Mapping Update",
+      "details": "Mapped ICD078 to TM2"
+    },
+    {
+      "timestamp": "2025-08-02 02:31 PM",
+      "user": "System",
+      "action": "CSV Ingestion",
+      "details": "Ingested 200 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-02 01:43 PM",
+      "user": "Dr. Sharma",
+      "action": "CSV Ingestion",
+      "details": "Ingested 176 codes from clinic_a.csv"
+    },
+    {
+      "timestamp": "2025-08-02 12:54 PM",
+      "user": "Dr. Patel",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 13 entries"
+    },
+    {
+      "timestamp": "2025-08-02 12:06 PM",
+      "user": "System",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-02 11:36 AM",
+      "user": "Dr. Sharma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 20 entries"
+    },
+    {
+      "timestamp": "2025-08-02 10:30 AM",
+      "user": "Admin Naveen",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 16 entries"
+    },
+    {
+      "timestamp": "2025-08-02 10:12 AM",
+      "user": "Dr. Verma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 9 entries"
+    },
+    {
+      "timestamp": "2025-08-02 10:00 AM",
+      "user": "Dr. Iyer",
+      "action": "Translation",
+      "details": "Translated 'Stomachache' \u2192 '\u092a\u0947\u091f \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-02 05:39 AM",
+      "user": "Dr. Rao",
+      "action": "CSV Ingestion",
+      "details": "Ingested 86 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-01 11:21 PM",
+      "user": "Dr. Singh",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-01 11:00 PM",
+      "user": "Dr. Patel",
+      "action": "Code Search",
+      "details": "Searched for 'Ear Infection'"
+    },
+    {
+      "timestamp": "2025-08-01 08:52 PM",
+      "user": "Dr. Rao",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-01 02:18 PM",
+      "user": "Dr. Sharma",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 12 entries"
+    },
+    {
+      "timestamp": "2025-08-01 01:48 PM",
+      "user": "Dr. Patel",
+      "action": "Login",
+      "details": "User session started"
+    },
+    {
+      "timestamp": "2025-08-01 12:17 PM",
+      "user": "Dr. Patel",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u092a\u0947\u091f \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-01 11:10 AM",
+      "user": "QA Bot",
+      "action": "Code Search",
+      "details": "Searched for 'Constipation'"
+    },
+    {
+      "timestamp": "2025-08-01 11:00 AM",
+      "user": "Dr. Rao",
+      "action": "Code Search",
+      "details": "Searched for 'Depression'"
+    },
+    {
+      "timestamp": "2025-08-01 10:49 AM",
+      "user": "Dr. Patel",
+      "action": "CSV Ingestion",
+      "details": "Ingested 50 codes from batch_aug.csv"
+    },
+    {
+      "timestamp": "2025-08-01 10:22 AM",
+      "user": "System",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u092c\u0941\u0916\u093e\u0930'"
+    },
+    {
+      "timestamp": "2025-08-01 07:25 AM",
+      "user": "QA Bot",
+      "action": "Code Search",
+      "details": "Searched for 'Arthritis'"
+    },
+    {
+      "timestamp": "2025-08-01 06:03 AM",
+      "user": "QA Bot",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 12 entries"
+    },
+    {
+      "timestamp": "2025-08-01 05:29 AM",
+      "user": "System",
+      "action": "Translation",
+      "details": "Translated 'Headache' \u2192 '\u0938\u0930 \u0926\u0930\u094d\u0926'"
+    },
+    {
+      "timestamp": "2025-08-01 02:05 AM",
+      "user": "QA Bot",
+      "action": "Mapping Update",
+      "details": "Mapped TM045 to TM2"
+    },
+    {
+      "timestamp": "2025-08-01 01:29 AM",
+      "user": "Dr. Patel",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 24 entries"
+    },
+    {
+      "timestamp": "2025-08-01 12:47 AM",
+      "user": "QA Bot",
+      "action": "FHIR Upload",
+      "details": "Uploaded Bundle with 7 entries"
+    },
+    {
+      "timestamp": "2025-08-01 12:47 AM",
+      "user": "Dr. Verma",
+      "action": "Mapping Update",
+      "details": "Mapped NA123 to ICD-11"
+    }
+  ],
+  "kpi_daily": [
+    {
+      "date": "2025-08-01",
+      "total_codes": 404,
+      "mapped_codes": 288,
+      "mapping_coverage_pct": 71.3,
+      "tm2_cached": 5099,
+      "biomed_cached": 2565,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-02",
+      "total_codes": 406,
+      "mapped_codes": 290,
+      "mapping_coverage_pct": 71.4,
+      "tm2_cached": 5191,
+      "biomed_cached": 2577,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-03",
+      "total_codes": 414,
+      "mapped_codes": 293,
+      "mapping_coverage_pct": 70.8,
+      "tm2_cached": 5249,
+      "biomed_cached": 2614,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-04",
+      "total_codes": 422,
+      "mapped_codes": 300,
+      "mapping_coverage_pct": 71.1,
+      "tm2_cached": 5255,
+      "biomed_cached": 2626,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-05",
+      "total_codes": 427,
+      "mapped_codes": 300,
+      "mapping_coverage_pct": 70.3,
+      "tm2_cached": 5364,
+      "biomed_cached": 2663,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-06",
+      "total_codes": 438,
+      "mapped_codes": 310,
+      "mapping_coverage_pct": 70.8,
+      "tm2_cached": 5404,
+      "biomed_cached": 2717,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-07",
+      "total_codes": 441,
+      "mapped_codes": 310,
+      "mapping_coverage_pct": 70.3,
+      "tm2_cached": 5512,
+      "biomed_cached": 2722,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-08",
+      "total_codes": 441,
+      "mapped_codes": 310,
+      "mapping_coverage_pct": 70.3,
+      "tm2_cached": 5596,
+      "biomed_cached": 2743,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-09",
+      "total_codes": 451,
+      "mapped_codes": 315,
+      "mapping_coverage_pct": 69.8,
+      "tm2_cached": 5710,
+      "biomed_cached": 2799,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-10",
+      "total_codes": 470,
+      "mapped_codes": 323,
+      "mapping_coverage_pct": 68.7,
+      "tm2_cached": 5822,
+      "biomed_cached": 2810,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-11",
+      "total_codes": 481,
+      "mapped_codes": 328,
+      "mapping_coverage_pct": 68.2,
+      "tm2_cached": 5845,
+      "biomed_cached": 2824,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-12",
+      "total_codes": 493,
+      "mapped_codes": 334,
+      "mapping_coverage_pct": 67.7,
+      "tm2_cached": 5903,
+      "biomed_cached": 2858,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-13",
+      "total_codes": 505,
+      "mapped_codes": 345,
+      "mapping_coverage_pct": 68.3,
+      "tm2_cached": 6011,
+      "biomed_cached": 2919,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-14",
+      "total_codes": 518,
+      "mapped_codes": 355,
+      "mapping_coverage_pct": 68.5,
+      "tm2_cached": 6124,
+      "biomed_cached": 2940,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-15",
+      "total_codes": 521,
+      "mapped_codes": 356,
+      "mapping_coverage_pct": 68.3,
+      "tm2_cached": 6213,
+      "biomed_cached": 2947,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-16",
+      "total_codes": 526,
+      "mapped_codes": 356,
+      "mapping_coverage_pct": 67.7,
+      "tm2_cached": 6266,
+      "biomed_cached": 3022,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-17",
+      "total_codes": 541,
+      "mapped_codes": 370,
+      "mapping_coverage_pct": 68.4,
+      "tm2_cached": 6289,
+      "biomed_cached": 3100,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-18",
+      "total_codes": 553,
+      "mapped_codes": 382,
+      "mapping_coverage_pct": 69.1,
+      "tm2_cached": 6334,
+      "biomed_cached": 3178,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-19",
+      "total_codes": 553,
+      "mapped_codes": 382,
+      "mapping_coverage_pct": 69.1,
+      "tm2_cached": 6395,
+      "biomed_cached": 3240,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-20",
+      "total_codes": 556,
+      "mapped_codes": 385,
+      "mapping_coverage_pct": 69.2,
+      "tm2_cached": 6451,
+      "biomed_cached": 3245,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-21",
+      "total_codes": 558,
+      "mapped_codes": 386,
+      "mapping_coverage_pct": 69.2,
+      "tm2_cached": 6534,
+      "biomed_cached": 3285,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-22",
+      "total_codes": 558,
+      "mapped_codes": 386,
+      "mapping_coverage_pct": 69.2,
+      "tm2_cached": 6619,
+      "biomed_cached": 3328,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-23",
+      "total_codes": 574,
+      "mapped_codes": 402,
+      "mapping_coverage_pct": 70.0,
+      "tm2_cached": 6707,
+      "biomed_cached": 3407,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-24",
+      "total_codes": 577,
+      "mapped_codes": 405,
+      "mapping_coverage_pct": 70.2,
+      "tm2_cached": 6791,
+      "biomed_cached": 3438,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-25",
+      "total_codes": 592,
+      "mapped_codes": 416,
+      "mapping_coverage_pct": 70.3,
+      "tm2_cached": 6875,
+      "biomed_cached": 3487,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-26",
+      "total_codes": 596,
+      "mapped_codes": 420,
+      "mapping_coverage_pct": 70.5,
+      "tm2_cached": 6989,
+      "biomed_cached": 3565,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-27",
+      "total_codes": 597,
+      "mapped_codes": 420,
+      "mapping_coverage_pct": 70.4,
+      "tm2_cached": 7071,
+      "biomed_cached": 3585,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-28",
+      "total_codes": 613,
+      "mapped_codes": 435,
+      "mapping_coverage_pct": 71.0,
+      "tm2_cached": 7180,
+      "biomed_cached": 3648,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-29",
+      "total_codes": 618,
+      "mapped_codes": 435,
+      "mapping_coverage_pct": 70.4,
+      "tm2_cached": 7276,
+      "biomed_cached": 3710,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-30",
+      "total_codes": 628,
+      "mapped_codes": 438,
+      "mapping_coverage_pct": 69.7,
+      "tm2_cached": 7318,
+      "biomed_cached": 3745,
+      "icd11_release": "2025-08"
+    },
+    {
+      "date": "2025-08-31",
+      "total_codes": 629,
+      "mapped_codes": 438,
+      "mapping_coverage_pct": 69.6,
+      "tm2_cached": 7388,
+      "biomed_cached": 3793,
+      "icd11_release": "2025-08"
+    }
+  ]
+}

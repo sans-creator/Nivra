@@ -1,0 +1,163 @@
+/* 1) @import FIRST (optional—safe to keep since we also load in index.html) */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined");
+
+/* 2) Tailwind directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 3) Your custom styles */
+@layer base {
+  :root{
+    --primary: #4a9b8e;
+    --text: #333333;
+    --sub: #666666;
+    --bg: #f5f5f5;
+  }
+  html, body, #root { height: 100%; }
+  body {
+    @apply bg-[var(--bg)] text-[var(--text)];
+    font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
+  }
+}
+
+@layer components {
+  .btn { @apply inline-flex items-center justify-center gap-2 rounded-md px-4 py-2 text-sm font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2; }
+  .btn-primary { @apply text-white; background: var(--primary); }
+  .btn-primary:hover { filter: brightness(0.95); }
+  .btn-outline { @apply border; border-color: var(--primary); color: var(--primary); }
+}
+
+@layer utilities {
+  .shadow-soft { box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.05), 0 2px 4px -2px rgb(0 0 0 / 0.05); }
+  .wrap { @apply mx-auto px-4 sm:px-6 lg:px-8; max-width: 1200px; }
+}
+
+/* === Nivra “aurora” & glass styles === */
+
+:root{
+  --brand-a: #4a9b8e;   /* primary */
+  --brand-b: #2f7f73;   /* deeper teal */
+  --brand-c: #8fd3c9;   /* mint accent */
+  --ink: #1f2937;
+}
+
+/* Subtle grain so large empty areas don’t look flat */
+.bg-noise {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Cfilter id='a'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.55' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .04 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23a)'/%3E%3C/svg%3E");
+}
+
+/* Soft “Aurora” background for hero sections */
+.bg-aurora {
+  background:
+    radial-gradient(60% 40% at 20% 10%, rgba(143,211,201,.45) 0%, rgba(143,211,201,0) 60%),
+    radial-gradient(50% 35% at 85% 30%, rgba(74,155,142,.35) 0%, rgba(74,155,142,0) 60%),
+    radial-gradient(45% 30% at 60% 80%, rgba(47,127,115,.25) 0%, rgba(47,127,115,0) 60%),
+    linear-gradient(180deg, #f7faf9 0%, #f2f7f6 100%);
+}
+
+/* Glass card with gradient border */
+.card-glass {
+  position: relative;
+  background: rgba(255,255,255,0.7);
+  backdrop-filter: blur(8px);
+  border-radius: 18px;
+  border: 1px solid rgba(255,255,255,0.6);
+  box-shadow: 0 10px 30px rgba(0,0,0,.06);
+}
+.card-glass:before{
+  content:"";
+  position:absolute; inset:-1px;
+  border-radius: 18px;
+  padding:1px;
+  background: linear-gradient(120deg, rgba(74,155,142,.4), rgba(143,211,201,.3), rgba(74,155,142,.4));
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor; mask-composite: exclude;
+  pointer-events:none;
+}
+
+/* Gradient button + shine */
+.btn-grad {
+  background-image: linear-gradient(135deg, var(--brand-a), var(--brand-b));
+  color:#fff;
+}
+.btn-grad:hover { filter: brightness(.95); }
+.btn-shine {
+  position: relative; overflow: hidden;
+}
+.btn-shine::after{
+  content:"";
+  position:absolute; top:-120%; left:-30%;
+  width:60%; height:300%;
+  transform: rotate(25deg);
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,.25), transparent);
+  transition: transform .6s ease;
+}
+.btn-shine:hover::after{ transform: rotate(25deg) translateX(200%); }
+
+/* Floating decorative blobs */
+.blob {
+  filter: blur(40px); opacity:.35; pointer-events:none;
+  background: radial-gradient(circle at 30% 30%, var(--brand-c), transparent 60%);
+}
+.blob-2 {
+  filter: blur(50px); opacity:.3; pointer-events:none;
+  background: radial-gradient(circle at 70% 50%, var(--brand-a), transparent 65%);
+}
+/* --- Glass & Gradients (shared) --- */
+@layer utilities {
+  /* App background gradient (subtle, brand-aligned) */
+  .bg-app-gradient {
+    background:
+      radial-gradient(1200px 600px at 20% -10%, rgba(74,155,142,0.08), transparent 60%),
+      radial-gradient(1000px 600px at 90% 10%, rgba(74,155,142,0.06), transparent 55%),
+      linear-gradient(180deg, #f7f9fb 0%, #f4f7f6 35%, #f2f5f4 100%);
+  }
+
+  /* Optional tiny paper grain */
+  .bg-noise {
+    background-image:
+      radial-gradient(rgba(0,0,0,.04) 1px, transparent 1px),
+      radial-gradient(rgba(0,0,0,.03) 1px, transparent 1px);
+    background-size: 24px 24px, 12px 12px;
+    background-position: 0 0, 6px 6px;
+  }
+
+  /* Reusable glass surface */
+  .glass {
+    @apply backdrop-blur-md bg-white/55 border border-white/40 shadow-[0_10px_30px_-12px_rgba(0,0,0,0.25)];
+  }
+  .glass-soft {
+    @apply backdrop-blur-md bg-white/60 border border-white/50 shadow-[0_6px_20px_-10px_rgba(0,0,0,0.20)];
+  }
+
+  /* Pill nav buttons */
+  .nav-pill {
+    @apply px-3 py-2 text-sm font-medium rounded-md transition-colors;
+  }
+.nav-pill--idle {
+  /* use the CSS var for color */
+  color: var(--text);
+  /* then use Tailwind utilities for transparency + hover */
+  @apply opacity-70 hover:opacity-100 hover:bg-black/5;
+}
+
+  .nav-pill--active {
+    @apply text-white;
+    background: linear-gradient(135deg, var(--primary), color-mix(in oklab, var(--primary) 75%, #2a6a60));
+    box-shadow: 0 8px 18px -8px color-mix(in oklab, var(--primary) 55%, black);
+  }
+
+  /* Glass card */
+  .glass-card {
+    @apply glass-soft rounded-2xl p-5;
+  }
+
+  /* Action button (glass) */
+  .btn-glass {
+    @apply rounded-md px-4 py-2 text-sm font-medium text-white shadow-sm;
+    background: linear-gradient(135deg, var(--primary), color-mix(in oklab, var(--primary) 70%, #2d7e72));
+  }
+  .btn-glass:hover { filter: brightness(0.98); }
+}

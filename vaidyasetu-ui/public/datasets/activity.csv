@@ -1,0 +1,401 @@
+timestamp,user,action,details
+2025-08-31 03:12 PM,QA Bot,CSV Ingestion,Ingested 182 codes from clinic_a.csv
+2025-08-31 02:49 PM,Dr. Sharma,Login,User session started
+2025-08-31 02:21 PM,Dr. Patel,FHIR Upload,Uploaded Bundle with 22 entries
+2025-08-31 08:17 AM,Admin Naveen,Translation,Translated 'Fever' → 'बुखार'
+2025-08-31 08:13 AM,System,Mapping Update,Mapped NA123 to NAMASTE
+2025-08-31 05:54 AM,Admin Naveen,FHIR Upload,Uploaded Bundle with 4 entries
+2025-08-31 02:40 AM,Dr. Sharma,FHIR Upload,Uploaded Bundle with 6 entries
+2025-08-31 12:18 AM,Admin Naveen,Login,User session started
+2025-08-30 11:40 PM,Dr. Patel,Code Search,Searched for 'Hypertension'
+2025-08-30 10:17 PM,QA Bot,Login,User session started
+2025-08-30 09:46 PM,Dr. Rao,Translation,Translated 'Fever' → 'बुखार'
+2025-08-30 07:55 PM,System,FHIR Upload,Uploaded Bundle with 13 entries
+2025-08-30 05:49 PM,Dr. Patel,Login,User session started
+2025-08-30 03:00 PM,Admin Naveen,Translation,Translated 'Headache' → 'सर दर्द'
+2025-08-30 09:04 AM,Dr. Iyer,Mapping Update,Mapped TM045 to NAMASTE
+2025-08-30 08:50 AM,Admin Naveen,Code Search,Searched for 'Back Pain'
+2025-08-30 08:10 AM,Dr. Rao,FHIR Upload,Uploaded Bundle with 8 entries
+2025-08-30 06:53 AM,Dr. Patel,CSV Ingestion,Ingested 57 codes from clinic_a.csv
+2025-08-30 03:05 AM,System,CSV Ingestion,Ingested 194 codes from clinic_a.csv
+2025-08-29 11:28 PM,Admin Naveen,CSV Ingestion,Ingested 118 codes from clinic_a.csv
+2025-08-29 10:53 PM,Dr. Patel,FHIR Upload,Uploaded Bundle with 14 entries
+2025-08-29 08:31 PM,Dr. Patel,CSV Ingestion,Ingested 174 codes from lab_mappings.csv
+2025-08-29 08:05 PM,QA Bot,FHIR Upload,Uploaded Bundle with 23 entries
+2025-08-29 07:51 PM,Admin Naveen,Code Search,Searched for 'Hypertension'
+2025-08-29 03:04 PM,Dr. Sharma,Code Search,Searched for 'Gastritis'
+2025-08-29 03:02 PM,Nurse Asha,Code Search,Searched for 'Sprain'
+2025-08-29 01:45 PM,Dr. Rao,Translation,Translated 'Body Pain' → 'बुखार'
+2025-08-29 12:35 PM,Dr. Iyer,Mapping Update,Mapped NA123 to NAMASTE
+2025-08-29 11:56 AM,Dr. Sharma,Login,User session started
+2025-08-29 11:14 AM,Admin Naveen,Login,User session started
+2025-08-29 10:14 AM,Dr. Verma,Code Search,Searched for 'Anxiety'
+2025-08-28 11:50 PM,Admin Naveen,FHIR Upload,Uploaded Bundle with 15 entries
+2025-08-28 07:15 PM,Dr. Singh,FHIR Upload,Uploaded Bundle with 10 entries
+2025-08-28 06:43 PM,Dr. Iyer,Translation,Translated 'Headache' → 'सर दर्द'
+2025-08-28 06:28 PM,Dr. Singh,CSV Ingestion,Ingested 76 codes from lab_mappings.csv
+2025-08-28 11:01 AM,Nurse Asha,FHIR Upload,Uploaded Bundle with 9 entries
+2025-08-28 10:54 AM,Dr. Patel,FHIR Upload,Uploaded Bundle with 5 entries
+2025-08-28 04:16 AM,System,FHIR Upload,Uploaded Bundle with 8 entries
+2025-08-28 03:54 AM,QA Bot,Translation,Translated 'Headache' → 'पेट दर्द'
+2025-08-27 09:35 PM,Dr. Iyer,Login,User session started
+2025-08-27 07:56 PM,System,Login,User session started
+2025-08-27 07:13 PM,Dr. Verma,CSV Ingestion,Ingested 117 codes from batch_aug.csv
+2025-08-27 06:21 PM,Dr. Verma,Translation,Translated 'Body Pain' → 'बुखार'
+2025-08-27 02:37 PM,System,Translation,Translated 'Stomachache' → 'शरीर दर्द'
+2025-08-27 12:46 PM,System,Mapping Update,Mapped ICD078 to ICD-11
+2025-08-27 12:33 PM,Dr. Rao,FHIR Upload,Uploaded Bundle with 25 entries
+2025-08-27 09:57 AM,System,CSV Ingestion,Ingested 117 codes from batch_aug.csv
+2025-08-27 06:56 AM,Dr. Verma,Login,User session started
+2025-08-27 05:48 AM,Dr. Verma,Login,User session started
+2025-08-27 05:17 AM,Dr. Sharma,CSV Ingestion,Ingested 96 codes from clinic_a.csv
+2025-08-27 12:03 AM,Dr. Singh,FHIR Upload,Uploaded Bundle with 9 entries
+2025-08-26 10:53 PM,Admin Naveen,FHIR Upload,Uploaded Bundle with 22 entries
+2025-08-26 09:44 PM,Dr. Rao,CSV Ingestion,Ingested 86 codes from batch_aug.csv
+2025-08-26 06:05 PM,Nurse Asha,Mapping Update,Mapped ICD078 to ICD-11
+2025-08-26 05:18 PM,Dr. Verma,Code Search,Searched for 'Malaria'
+2025-08-26 03:29 PM,Dr. Singh,Code Search,Searched for 'Sprain'
+2025-08-26 03:21 PM,QA Bot,Translation,Translated 'Headache' → 'पेट दर्द'
+2025-08-26 12:37 PM,Dr. Sharma,Mapping Update,Mapped NA123 to NAMASTE
+2025-08-26 10:57 AM,Dr. Sharma,Translation,Translated 'Body Pain' → 'शरीर दर्द'
+2025-08-26 10:26 AM,Dr. Patel,Code Search,Searched for 'Typhoid'
+2025-08-26 10:20 AM,Dr. Patel,Login,User session started
+2025-08-26 09:20 AM,Nurse Asha,Login,User session started
+2025-08-26 08:51 AM,System,Mapping Update,Mapped ICD078 to NAMASTE
+2025-08-26 07:08 AM,System,FHIR Upload,Uploaded Bundle with 4 entries
+2025-08-26 06:35 AM,Dr. Singh,FHIR Upload,Uploaded Bundle with 19 entries
+2025-08-26 06:10 AM,Admin Naveen,CSV Ingestion,Ingested 131 codes from lab_mappings.csv
+2025-08-25 09:28 PM,Dr. Singh,FHIR Upload,Uploaded Bundle with 4 entries
+2025-08-25 07:06 PM,Dr. Verma,FHIR Upload,Uploaded Bundle with 19 entries
+2025-08-25 02:27 PM,System,Mapping Update,Mapped ICD078 to ICD-11
+2025-08-25 02:14 PM,Dr. Verma,Login,User session started
+2025-08-25 12:52 PM,Dr. Rao,FHIR Upload,Uploaded Bundle with 22 entries
+2025-08-25 07:45 AM,Dr. Iyer,FHIR Upload,Uploaded Bundle with 23 entries
+2025-08-25 05:43 AM,Dr. Patel,CSV Ingestion,Ingested 81 codes from batch_aug.csv
+2025-08-25 03:54 AM,Dr. Sharma,Translation,Translated 'Body Pain' → 'सर दर्द'
+2025-08-25 01:04 AM,Nurse Asha,Code Search,Searched for 'Measles'
+2025-08-25 12:35 AM,System,Translation,Translated 'Stomachache' → 'बुखार'
+2025-08-24 09:15 PM,QA Bot,Translation,Translated 'Body Pain' → 'बुखार'
+2025-08-24 08:54 PM,System,FHIR Upload,Uploaded Bundle with 16 entries
+2025-08-24 08:46 PM,Dr. Singh,Login,User session started
+2025-08-24 08:03 PM,QA Bot,Translation,Translated 'Body Pain' → 'पेट दर्द'
+2025-08-24 07:35 PM,System,Login,User session started
+2025-08-24 06:23 PM,Dr. Iyer,Code Search,Searched for 'Asthma'
+2025-08-24 06:17 PM,Nurse Asha,Login,User session started
+2025-08-24 05:50 PM,Dr. Singh,CSV Ingestion,Ingested 43 codes from lab_mappings.csv
+2025-08-24 04:23 PM,Dr. Patel,Mapping Update,Mapped ICD078 to NAMASTE
+2025-08-24 12:26 PM,Dr. Iyer,CSV Ingestion,Ingested 34 codes from lab_mappings.csv
+2025-08-24 10:28 AM,Dr. Patel,FHIR Upload,Uploaded Bundle with 3 entries
+2025-08-24 06:38 AM,Dr. Iyer,Mapping Update,Mapped ICD078 to TM2
+2025-08-23 06:59 PM,Dr. Iyer,CSV Ingestion,Ingested 72 codes from batch_aug.csv
+2025-08-23 12:30 PM,Dr. Verma,FHIR Upload,Uploaded Bundle with 25 entries
+2025-08-23 09:49 AM,QA Bot,Translation,Translated 'Stomachache' → 'शरीर दर्द'
+2025-08-23 07:27 AM,Dr. Patel,Translation,Translated 'Stomachache' → 'पेट दर्द'
+2025-08-23 05:06 AM,Dr. Sharma,Login,User session started
+2025-08-22 08:02 PM,Dr. Singh,Code Search,Searched for 'Thyroid Disorder'
+2025-08-22 07:12 PM,QA Bot,FHIR Upload,Uploaded Bundle with 19 entries
+2025-08-22 03:44 PM,Dr. Sharma,FHIR Upload,Uploaded Bundle with 19 entries
+2025-08-22 01:39 PM,System,Mapping Update,Mapped TM045 to NAMASTE
+2025-08-22 12:38 PM,Dr. Singh,Code Search,Searched for 'Burn'
+2025-08-22 12:15 PM,Dr. Iyer,CSV Ingestion,Ingested 88 codes from lab_mappings.csv
+2025-08-22 10:38 AM,Dr. Sharma,FHIR Upload,Uploaded Bundle with 24 entries
+2025-08-22 08:53 AM,Dr. Verma,Login,User session started
+2025-08-22 08:45 AM,Dr. Verma,Translation,Translated 'Headache' → 'पेट दर्द'
+2025-08-22 06:30 AM,Dr. Iyer,FHIR Upload,Uploaded Bundle with 11 entries
+2025-08-22 05:14 AM,Dr. Sharma,Code Search,Searched for 'Burn'
+2025-08-22 04:59 AM,Dr. Iyer,FHIR Upload,Uploaded Bundle with 21 entries
+2025-08-22 03:16 AM,Dr. Sharma,Login,User session started
+2025-08-22 01:32 AM,Dr. Rao,CSV Ingestion,Ingested 164 codes from clinic_a.csv
+2025-08-21 10:07 PM,System,Mapping Update,Mapped ICD078 to NAMASTE
+2025-08-21 09:39 PM,Dr. Singh,Translation,Translated 'Fever' → 'बुखार'
+2025-08-21 08:34 PM,Dr. Singh,FHIR Upload,Uploaded Bundle with 9 entries
+2025-08-21 07:51 PM,QA Bot,FHIR Upload,Uploaded Bundle with 1 entries
+2025-08-21 05:05 PM,Dr. Sharma,Translation,Translated 'Headache' → 'शरीर दर्द'
+2025-08-21 01:46 PM,Dr. Singh,CSV Ingestion,Ingested 137 codes from batch_aug.csv
+2025-08-21 01:16 PM,Dr. Patel,Login,User session started
+2025-08-21 10:37 AM,Dr. Verma,Code Search,Searched for 'Sprain'
+2025-08-21 08:55 AM,QA Bot,FHIR Upload,Uploaded Bundle with 16 entries
+2025-08-21 07:21 AM,Nurse Asha,CSV Ingestion,Ingested 199 codes from lab_mappings.csv
+2025-08-21 06:30 AM,Dr. Verma,Translation,Translated 'Body Pain' → 'सर दर्द'
+2025-08-21 05:34 AM,Admin Naveen,Code Search,Searched for 'Back Pain'
+2025-08-21 02:51 AM,Dr. Sharma,Mapping Update,Mapped ICD078 to TM2
+2025-08-21 12:48 AM,QA Bot,Mapping Update,Mapped ICD078 to ICD-11
+2025-08-20 05:37 PM,Dr. Patel,CSV Ingestion,Ingested 73 codes from batch_aug.csv
+2025-08-20 05:03 PM,System,Translation,Translated 'Headache' → 'शरीर दर्द'
+2025-08-20 03:54 PM,Admin Naveen,Translation,Translated 'Stomachache' → 'पेट दर्द'
+2025-08-20 03:23 PM,System,Code Search,Searched for 'Jaundice'
+2025-08-20 03:09 PM,Dr. Singh,Mapping Update,Mapped ICD078 to TM2
+2025-08-20 12:41 PM,Dr. Patel,Mapping Update,Mapped ICD078 to TM2
+2025-08-20 12:02 PM,Dr. Patel,CSV Ingestion,Ingested 196 codes from clinic_a.csv
+2025-08-20 10:58 AM,Nurse Asha,Login,User session started
+2025-08-20 10:42 AM,Dr. Verma,Login,User session started
+2025-08-20 09:35 AM,QA Bot,CSV Ingestion,Ingested 130 codes from clinic_a.csv
+2025-08-20 08:02 AM,QA Bot,CSV Ingestion,Ingested 61 codes from lab_mappings.csv
+2025-08-20 06:28 AM,Admin Naveen,Code Search,Searched for 'Conjunctivitis'
+2025-08-20 04:54 AM,Admin Naveen,CSV Ingestion,Ingested 97 codes from batch_aug.csv
+2025-08-20 04:12 AM,System,FHIR Upload,Uploaded Bundle with 22 entries
+2025-08-20 03:27 AM,Dr. Patel,Mapping Update,Mapped NA123 to NAMASTE
+2025-08-20 12:25 AM,Dr. Verma,Code Search,Searched for 'COVID-19'
+2025-08-19 09:56 PM,Dr. Verma,Code Search,Searched for 'Stomachache'
+2025-08-19 09:01 PM,Dr. Patel,Translation,Translated 'Headache' → 'शरीर दर्द'
+2025-08-19 08:32 PM,Dr. Sharma,Translation,Translated 'Body Pain' → 'बुखार'
+2025-08-19 02:16 PM,Dr. Rao,Mapping Update,Mapped ICD078 to NAMASTE
+2025-08-19 02:12 PM,QA Bot,Translation,Translated 'Fever' → 'पेट दर्द'
+2025-08-19 01:54 PM,Dr. Iyer,Translation,Translated 'Headache' → 'बुखार'
+2025-08-19 10:49 AM,Dr. Patel,Mapping Update,Mapped TM045 to ICD-11
+2025-08-19 10:32 AM,Nurse Asha,Translation,Translated 'Stomachache' → 'शरीर दर्द'
+2025-08-19 09:13 AM,Dr. Verma,FHIR Upload,Uploaded Bundle with 4 entries
+2025-08-19 06:23 AM,Dr. Singh,Login,User session started
+2025-08-19 05:06 AM,System,Login,User session started
+2025-08-19 04:00 AM,Nurse Asha,Mapping Update,Mapped ICD078 to NAMASTE
+2025-08-19 03:52 AM,System,Login,User session started
+2025-08-19 02:41 AM,QA Bot,CSV Ingestion,Ingested 155 codes from clinic_a.csv
+2025-08-19 02:21 AM,Dr. Patel,Login,User session started
+2025-08-19 01:59 AM,System,Login,User session started
+2025-08-18 10:23 AM,System,FHIR Upload,Uploaded Bundle with 12 entries
+2025-08-18 10:00 AM,QA Bot,Code Search,Searched for 'Sciatica'
+2025-08-18 09:40 AM,Nurse Asha,Translation,Translated 'Headache' → 'शरीर दर्द'
+2025-08-18 09:21 AM,Dr. Singh,Mapping Update,Mapped TM045 to ICD-11
+2025-08-18 09:00 AM,Dr. Rao,CSV Ingestion,Ingested 61 codes from clinic_a.csv
+2025-08-18 08:26 AM,Dr. Iyer,Translation,Translated 'Headache' → 'बुखार'
+2025-08-18 07:43 AM,Dr. Sharma,Mapping Update,Mapped NA123 to NAMASTE
+2025-08-18 02:18 AM,Dr. Sharma,Login,User session started
+2025-08-18 01:44 AM,QA Bot,Mapping Update,Mapped NA123 to TM2
+2025-08-18 01:34 AM,QA Bot,CSV Ingestion,Ingested 55 codes from clinic_a.csv
+2025-08-17 02:14 PM,Dr. Sharma,FHIR Upload,Uploaded Bundle with 6 entries
+2025-08-17 01:00 PM,Dr. Rao,CSV Ingestion,Ingested 35 codes from clinic_a.csv
+2025-08-17 09:38 AM,Dr. Singh,CSV Ingestion,Ingested 99 codes from batch_aug.csv
+2025-08-17 07:47 AM,QA Bot,Login,User session started
+2025-08-17 07:10 AM,System,CSV Ingestion,Ingested 73 codes from clinic_a.csv
+2025-08-17 07:02 AM,Dr. Rao,Translation,Translated 'Body Pain' → 'सर दर्द'
+2025-08-17 03:03 AM,Dr. Singh,FHIR Upload,Uploaded Bundle with 11 entries
+2025-08-17 01:50 AM,Dr. Iyer,Translation,Translated 'Body Pain' → 'शरीर दर्द'
+2025-08-16 09:19 PM,Admin Naveen,Login,User session started
+2025-08-16 08:06 PM,Dr. Verma,CSV Ingestion,Ingested 79 codes from clinic_a.csv
+2025-08-16 07:57 PM,Dr. Singh,Mapping Update,Mapped TM045 to ICD-11
+2025-08-16 07:47 PM,Dr. Sharma,Code Search,Searched for 'Influenza'
+2025-08-16 06:48 PM,Dr. Singh,CSV Ingestion,Ingested 187 codes from lab_mappings.csv
+2025-08-16 04:09 PM,Dr. Singh,CSV Ingestion,Ingested 160 codes from lab_mappings.csv
+2025-08-16 12:45 PM,Dr. Sharma,Code Search,Searched for 'Measles'
+2025-08-16 09:39 AM,Dr. Sharma,Mapping Update,Mapped ICD078 to TM2
+2025-08-16 08:43 AM,Dr. Patel,Mapping Update,Mapped TM045 to NAMASTE
+2025-08-16 05:08 AM,Admin Naveen,Mapping Update,Mapped TM045 to TM2
+2025-08-16 04:34 AM,System,Mapping Update,Mapped NA123 to TM2
+2025-08-16 12:04 AM,Dr. Sharma,Code Search,Searched for 'Stomachache'
+2025-08-15 11:12 PM,System,Code Search,Searched for 'Stomachache'
+2025-08-15 10:16 PM,Dr. Patel,Mapping Update,Mapped NA123 to NAMASTE
+2025-08-15 09:46 PM,System,CSV Ingestion,Ingested 115 codes from batch_aug.csv
+2025-08-15 09:28 PM,Dr. Iyer,CSV Ingestion,Ingested 52 codes from clinic_a.csv
+2025-08-15 07:56 PM,Dr. Iyer,Translation,Translated 'Stomachache' → 'बुखार'
+2025-08-15 03:26 PM,Dr. Sharma,Mapping Update,Mapped ICD078 to ICD-11
+2025-08-15 12:07 PM,Dr. Sharma,Mapping Update,Mapped NA123 to ICD-11
+2025-08-15 11:44 AM,Dr. Rao,FHIR Upload,Uploaded Bundle with 3 entries
+2025-08-15 10:32 AM,QA Bot,Mapping Update,Mapped NA123 to TM2
+2025-08-15 07:49 AM,System,Mapping Update,Mapped TM045 to ICD-11
+2025-08-15 07:35 AM,Dr. Patel,CSV Ingestion,Ingested 46 codes from clinic_a.csv
+2025-08-15 04:01 AM,System,Code Search,Searched for 'Appendicitis'
+2025-08-15 03:33 AM,Dr. Iyer,Login,User session started
+2025-08-15 01:05 AM,Nurse Asha,Mapping Update,Mapped ICD078 to ICD-11
+2025-08-15 12:19 AM,Dr. Sharma,FHIR Upload,Uploaded Bundle with 19 entries
+2025-08-14 08:07 PM,Dr. Patel,Code Search,Searched for 'Dengue'
+2025-08-14 03:29 PM,Admin Naveen,Translation,Translated 'Body Pain' → 'शरीर दर्द'
+2025-08-14 03:18 PM,Dr. Patel,FHIR Upload,Uploaded Bundle with 17 entries
+2025-08-14 02:39 PM,Dr. Singh,Mapping Update,Mapped ICD078 to ICD-11
+2025-08-14 02:34 PM,Dr. Singh,FHIR Upload,Uploaded Bundle with 12 entries
+2025-08-14 02:03 PM,System,Translation,Translated 'Fever' → 'सर दर्द'
+2025-08-14 12:09 PM,Dr. Rao,CSV Ingestion,Ingested 136 codes from batch_aug.csv
+2025-08-14 11:06 AM,Dr. Singh,Translation,Translated 'Headache' → 'सर दर्द'
+2025-08-14 10:41 AM,Dr. Rao,Translation,Translated 'Body Pain' → 'बुखार'
+2025-08-14 08:05 AM,Nurse Asha,CSV Ingestion,Ingested 24 codes from lab_mappings.csv
+2025-08-14 07:12 AM,Dr. Verma,FHIR Upload,Uploaded Bundle with 17 entries
+2025-08-14 03:50 AM,Dr. Patel,Code Search,Searched for 'Conjunctivitis'
+2025-08-14 02:18 AM,Dr. Patel,Code Search,Searched for 'Migraine'
+2025-08-13 11:27 PM,Dr. Iyer,Code Search,Searched for 'Sprain'
+2025-08-13 06:53 PM,Dr. Sharma,CSV Ingestion,Ingested 164 codes from clinic_a.csv
+2025-08-13 06:12 PM,Dr. Verma,Code Search,Searched for 'Bronchitis'
+2025-08-13 05:28 PM,Dr. Sharma,Code Search,Searched for 'Ulcer'
+2025-08-13 02:02 PM,Dr. Sharma,Translation,Translated 'Body Pain' → 'बुखार'
+2025-08-13 01:21 PM,Dr. Iyer,Mapping Update,Mapped NA123 to TM2
+2025-08-13 11:48 AM,Dr. Iyer,FHIR Upload,Uploaded Bundle with 24 entries
+2025-08-13 10:00 AM,Dr. Iyer,Mapping Update,Mapped NA123 to TM2
+2025-08-13 05:15 AM,QA Bot,Login,User session started
+2025-08-13 03:05 AM,Dr. Patel,Code Search,Searched for 'Asthma'
+2025-08-13 01:53 AM,Dr. Sharma,CSV Ingestion,Ingested 99 codes from clinic_a.csv
+2025-08-13 01:12 AM,Dr. Rao,CSV Ingestion,Ingested 62 codes from lab_mappings.csv
+2025-08-13 01:11 AM,QA Bot,FHIR Upload,Uploaded Bundle with 17 entries
+2025-08-13 12:46 AM,Dr. Rao,CSV Ingestion,Ingested 156 codes from lab_mappings.csv
+2025-08-13 12:23 AM,Dr. Verma,Code Search,Searched for 'Bronchitis'
+2025-08-12 08:10 PM,Nurse Asha,Mapping Update,Mapped NA123 to NAMASTE
+2025-08-12 04:10 PM,Nurse Asha,FHIR Upload,Uploaded Bundle with 22 entries
+2025-08-12 02:01 PM,Dr. Patel,Code Search,Searched for 'Sinusitis'
+2025-08-12 09:13 AM,Dr. Patel,Login,User session started
+2025-08-12 02:07 AM,Dr. Sharma,Translation,Translated 'Headache' → 'बुखार'
+2025-08-12 01:48 AM,Dr. Verma,FHIR Upload,Uploaded Bundle with 14 entries
+2025-08-11 10:49 PM,Dr. Sharma,Code Search,Searched for 'Cough'
+2025-08-11 10:32 PM,Dr. Verma,Login,User session started
+2025-08-11 09:34 PM,Dr. Verma,FHIR Upload,Uploaded Bundle with 24 entries
+2025-08-11 08:42 PM,Dr. Sharma,CSV Ingestion,Ingested 184 codes from batch_aug.csv
+2025-08-11 04:56 PM,Dr. Verma,CSV Ingestion,Ingested 77 codes from lab_mappings.csv
+2025-08-11 02:37 PM,QA Bot,Code Search,Searched for 'Piles'
+2025-08-11 02:13 PM,System,Login,User session started
+2025-08-11 06:46 AM,QA Bot,Login,User session started
+2025-08-11 03:22 AM,Dr. Singh,CSV Ingestion,Ingested 97 codes from clinic_a.csv
+2025-08-11 01:07 AM,Dr. Sharma,CSV Ingestion,Ingested 40 codes from batch_aug.csv
+2025-08-11 01:06 AM,Dr. Singh,Mapping Update,Mapped TM045 to TM2
+2025-08-11 12:51 AM,Dr. Sharma,FHIR Upload,Uploaded Bundle with 17 entries
+2025-08-10 08:44 PM,QA Bot,Translation,Translated 'Body Pain' → 'पेट दर्द'
+2025-08-10 08:10 PM,Dr. Patel,Mapping Update,Mapped NA123 to ICD-11
+2025-08-10 06:00 PM,System,Translation,Translated 'Stomachache' → 'शरीर दर्द'
+2025-08-10 05:47 PM,Dr. Verma,CSV Ingestion,Ingested 179 codes from clinic_a.csv
+2025-08-10 11:41 AM,Dr. Iyer,Mapping Update,Mapped NA123 to ICD-11
+2025-08-10 05:55 AM,Dr. Patel,FHIR Upload,Uploaded Bundle with 22 entries
+2025-08-10 03:31 AM,Dr. Sharma,FHIR Upload,Uploaded Bundle with 1 entries
+2025-08-10 03:18 AM,Dr. Singh,FHIR Upload,Uploaded Bundle with 18 entries
+2025-08-10 01:23 AM,System,CSV Ingestion,Ingested 132 codes from batch_aug.csv
+2025-08-10 12:25 AM,System,Mapping Update,Mapped ICD078 to TM2
+2025-08-10 12:24 AM,Dr. Rao,Login,User session started
+2025-08-09 09:15 PM,Dr. Verma,Translation,Translated 'Stomachache' → 'पेट दर्द'
+2025-08-09 06:07 PM,Dr. Iyer,FHIR Upload,Uploaded Bundle with 11 entries
+2025-08-09 05:30 PM,Dr. Patel,Mapping Update,Mapped NA123 to ICD-11
+2025-08-09 04:57 PM,QA Bot,CSV Ingestion,Ingested 24 codes from clinic_a.csv
+2025-08-09 12:38 PM,Dr. Patel,Login,User session started
+2025-08-09 10:25 AM,Dr. Sharma,Translation,Translated 'Fever' → 'सर दर्द'
+2025-08-09 10:23 AM,Dr. Sharma,Mapping Update,Mapped TM045 to TM2
+2025-08-09 09:49 AM,Nurse Asha,FHIR Upload,Uploaded Bundle with 10 entries
+2025-08-09 09:00 AM,Dr. Singh,Login,User session started
+2025-08-09 05:29 AM,Dr. Patel,CSV Ingestion,Ingested 88 codes from batch_aug.csv
+2025-08-09 03:43 AM,QA Bot,FHIR Upload,Uploaded Bundle with 24 entries
+2025-08-09 03:36 AM,Admin Naveen,Code Search,Searched for 'Sciatica'
+2025-08-09 02:51 AM,Dr. Patel,Code Search,Searched for 'Constipation'
+2025-08-09 02:45 AM,QA Bot,Translation,Translated 'Headache' → 'बुखार'
+2025-08-09 02:25 AM,Dr. Verma,CSV Ingestion,Ingested 46 codes from lab_mappings.csv
+2025-08-09 12:51 AM,Dr. Patel,Login,User session started
+2025-08-09 12:14 AM,Admin Naveen,FHIR Upload,Uploaded Bundle with 6 entries
+2025-08-08 11:29 PM,QA Bot,Login,User session started
+2025-08-08 05:12 PM,Dr. Patel,Login,User session started
+2025-08-08 03:38 PM,Dr. Singh,CSV Ingestion,Ingested 200 codes from lab_mappings.csv
+2025-08-08 11:35 AM,Dr. Rao,FHIR Upload,Uploaded Bundle with 3 entries
+2025-08-08 10:56 AM,Dr. Patel,Code Search,Searched for 'Sinusitis'
+2025-08-08 10:24 AM,Dr. Sharma,Login,User session started
+2025-08-08 09:53 AM,Dr. Sharma,CSV Ingestion,Ingested 40 codes from lab_mappings.csv
+2025-08-08 08:04 AM,Dr. Iyer,Login,User session started
+2025-08-08 07:57 AM,Dr. Patel,Mapping Update,Mapped TM045 to NAMASTE
+2025-08-08 04:17 AM,Dr. Singh,CSV Ingestion,Ingested 101 codes from lab_mappings.csv
+2025-08-08 04:05 AM,Admin Naveen,Translation,Translated 'Fever' → 'शरीर दर्द'
+2025-08-08 02:23 AM,Dr. Rao,Translation,Translated 'Stomachache' → 'पेट दर्द'
+2025-08-08 02:01 AM,Dr. Patel,FHIR Upload,Uploaded Bundle with 9 entries
+2025-08-08 02:00 AM,Dr. Patel,Mapping Update,Mapped ICD078 to TM2
+2025-08-08 12:10 AM,Dr. Singh,Code Search,Searched for 'Chickenpox'
+2025-08-07 09:38 PM,Nurse Asha,CSV Ingestion,Ingested 180 codes from batch_aug.csv
+2025-08-07 09:03 PM,Dr. Verma,CSV Ingestion,Ingested 136 codes from clinic_a.csv
+2025-08-07 07:27 PM,Dr. Sharma,FHIR Upload,Uploaded Bundle with 20 entries
+2025-08-07 07:07 PM,Dr. Iyer,Mapping Update,Mapped ICD078 to NAMASTE
+2025-08-07 07:03 PM,Dr. Iyer,Login,User session started
+2025-08-07 04:02 PM,QA Bot,CSV Ingestion,Ingested 124 codes from lab_mappings.csv
+2025-08-07 03:51 PM,Dr. Rao,Translation,Translated 'Stomachache' → 'शरीर दर्द'
+2025-08-07 03:48 PM,System,Code Search,Searched for 'Insomnia'
+2025-08-07 03:04 PM,Dr. Sharma,FHIR Upload,Uploaded Bundle with 18 entries
+2025-08-07 02:58 PM,QA Bot,Login,User session started
+2025-08-07 01:58 PM,QA Bot,FHIR Upload,Uploaded Bundle with 2 entries
+2025-08-07 12:03 PM,Dr. Verma,Translation,Translated 'Body Pain' → 'बुखार'
+2025-08-07 11:52 AM,Dr. Verma,FHIR Upload,Uploaded Bundle with 12 entries
+2025-08-07 10:36 AM,Admin Naveen,Mapping Update,Mapped ICD078 to NAMASTE
+2025-08-07 09:59 AM,System,Translation,Translated 'Stomachache' → 'बुखार'
+2025-08-07 09:41 AM,Dr. Singh,CSV Ingestion,Ingested 60 codes from batch_aug.csv
+2025-08-07 08:17 AM,Dr. Sharma,CSV Ingestion,Ingested 100 codes from batch_aug.csv
+2025-08-07 08:09 AM,Nurse Asha,FHIR Upload,Uploaded Bundle with 11 entries
+2025-08-06 10:45 PM,Dr. Patel,FHIR Upload,Uploaded Bundle with 2 entries
+2025-08-06 09:30 PM,Dr. Patel,Translation,Translated 'Headache' → 'सर दर्द'
+2025-08-06 04:45 PM,Dr. Iyer,Translation,Translated 'Headache' → 'शरीर दर्द'
+2025-08-06 04:40 PM,Dr. Iyer,FHIR Upload,Uploaded Bundle with 8 entries
+2025-08-06 03:13 PM,Dr. Singh,Login,User session started
+2025-08-06 03:08 PM,System,Mapping Update,Mapped NA123 to NAMASTE
+2025-08-06 02:34 PM,Dr. Verma,FHIR Upload,Uploaded Bundle with 16 entries
+2025-08-06 02:22 PM,Dr. Sharma,Mapping Update,Mapped NA123 to ICD-11
+2025-08-06 02:05 PM,Dr. Patel,CSV Ingestion,Ingested 185 codes from clinic_a.csv
+2025-08-06 01:05 PM,Dr. Verma,FHIR Upload,Uploaded Bundle with 20 entries
+2025-08-06 01:03 PM,Dr. Sharma,Mapping Update,Mapped TM045 to TM2
+2025-08-06 12:41 PM,QA Bot,Translation,Translated 'Headache' → 'बुखार'
+2025-08-06 04:37 AM,Dr. Patel,Code Search,Searched for 'Ulcer'
+2025-08-06 03:06 AM,Dr. Sharma,FHIR Upload,Uploaded Bundle with 11 entries
+2025-08-06 12:20 AM,Dr. Patel,CSV Ingestion,Ingested 161 codes from clinic_a.csv
+2025-08-05 11:39 PM,System,Mapping Update,Mapped TM045 to ICD-11
+2025-08-05 11:20 PM,Dr. Patel,CSV Ingestion,Ingested 96 codes from clinic_a.csv
+2025-08-05 11:12 PM,Dr. Patel,Login,User session started
+2025-08-05 09:39 PM,Dr. Rao,CSV Ingestion,Ingested 179 codes from lab_mappings.csv
+2025-08-05 08:44 PM,QA Bot,Mapping Update,Mapped NA123 to NAMASTE
+2025-08-05 06:25 PM,QA Bot,Translation,Translated 'Headache' → 'शरीर दर्द'
+2025-08-05 05:42 PM,System,Login,User session started
+2025-08-05 04:40 PM,Dr. Patel,CSV Ingestion,Ingested 158 codes from batch_aug.csv
+2025-08-05 03:45 PM,Dr. Patel,Mapping Update,Mapped ICD078 to NAMASTE
+2025-08-05 02:53 PM,Dr. Patel,FHIR Upload,Uploaded Bundle with 3 entries
+2025-08-05 12:44 PM,Dr. Rao,CSV Ingestion,Ingested 41 codes from batch_aug.csv
+2025-08-05 12:31 PM,Dr. Iyer,FHIR Upload,Uploaded Bundle with 21 entries
+2025-08-05 12:27 PM,System,Login,User session started
+2025-08-05 07:41 AM,QA Bot,Mapping Update,Mapped ICD078 to NAMASTE
+2025-08-05 06:12 AM,Dr. Sharma,Translation,Translated 'Stomachache' → 'सर दर्द'
+2025-08-05 06:05 AM,Dr. Verma,Login,User session started
+2025-08-05 04:38 AM,Nurse Asha,Code Search,Searched for 'Sprain'
+2025-08-05 02:55 AM,Admin Naveen,Mapping Update,Mapped NA123 to TM2
+2025-08-05 01:54 AM,Admin Naveen,CSV Ingestion,Ingested 39 codes from clinic_a.csv
+2025-08-04 09:55 PM,Dr. Rao,Login,User session started
+2025-08-04 07:59 PM,System,Login,User session started
+2025-08-04 07:22 PM,Nurse Asha,CSV Ingestion,Ingested 33 codes from clinic_a.csv
+2025-08-04 03:23 PM,Nurse Asha,Code Search,Searched for 'Burn'
+2025-08-04 01:38 PM,Dr. Patel,Translation,Translated 'Stomachache' → 'सर दर्द'
+2025-08-04 01:02 PM,Dr. Patel,Code Search,Searched for 'Fever'
+2025-08-04 12:30 PM,Dr. Verma,Login,User session started
+2025-08-04 10:58 AM,System,Translation,Translated 'Fever' → 'पेट दर्द'
+2025-08-04 08:34 AM,Dr. Singh,FHIR Upload,Uploaded Bundle with 22 entries
+2025-08-04 08:18 AM,Dr. Singh,CSV Ingestion,Ingested 99 codes from batch_aug.csv
+2025-08-04 06:59 AM,Dr. Verma,Code Search,Searched for 'Appendicitis'
+2025-08-04 06:15 AM,Dr. Verma,Login,User session started
+2025-08-04 06:04 AM,Dr. Patel,Mapping Update,Mapped TM045 to TM2
+2025-08-04 05:01 AM,Dr. Verma,FHIR Upload,Uploaded Bundle with 24 entries
+2025-08-04 04:03 AM,Dr. Singh,CSV Ingestion,Ingested 94 codes from batch_aug.csv
+2025-08-04 03:06 AM,Dr. Sharma,Login,User session started
+2025-08-04 12:53 AM,Nurse Asha,Mapping Update,Mapped NA123 to NAMASTE
+2025-08-03 10:25 PM,Admin Naveen,Login,User session started
+2025-08-03 05:26 PM,Dr. Sharma,Translation,Translated 'Fever' → 'पेट दर्द'
+2025-08-03 05:08 PM,Dr. Iyer,Translation,Translated 'Stomachache' → 'शरीर दर्द'
+2025-08-03 02:32 PM,Dr. Singh,Mapping Update,Mapped ICD078 to TM2
+2025-08-03 02:27 PM,Dr. Singh,Code Search,Searched for 'Depression'
+2025-08-03 02:23 PM,Dr. Patel,Translation,Translated 'Headache' → 'पेट दर्द'
+2025-08-03 01:22 PM,Dr. Sharma,Mapping Update,Mapped NA123 to NAMASTE
+2025-08-03 09:25 AM,Dr. Iyer,CSV Ingestion,Ingested 115 codes from clinic_a.csv
+2025-08-03 09:01 AM,Dr. Rao,CSV Ingestion,Ingested 64 codes from clinic_a.csv
+2025-08-03 08:31 AM,Dr. Iyer,FHIR Upload,Uploaded Bundle with 5 entries
+2025-08-03 08:24 AM,Dr. Patel,Login,User session started
+2025-08-03 07:52 AM,Dr. Rao,Login,User session started
+2025-08-03 03:08 AM,QA Bot,Mapping Update,Mapped TM045 to TM2
+2025-08-03 12:28 AM,Dr. Iyer,FHIR Upload,Uploaded Bundle with 18 entries
+2025-08-02 07:57 PM,Nurse Asha,Login,User session started
+2025-08-02 07:39 PM,Dr. Sharma,FHIR Upload,Uploaded Bundle with 5 entries
+2025-08-02 07:31 PM,Dr. Verma,Login,User session started
+2025-08-02 04:27 PM,Nurse Asha,Mapping Update,Mapped ICD078 to TM2
+2025-08-02 02:31 PM,System,CSV Ingestion,Ingested 200 codes from clinic_a.csv
+2025-08-02 01:43 PM,Dr. Sharma,CSV Ingestion,Ingested 176 codes from clinic_a.csv
+2025-08-02 12:54 PM,Dr. Patel,FHIR Upload,Uploaded Bundle with 13 entries
+2025-08-02 12:06 PM,System,Login,User session started
+2025-08-02 11:36 AM,Dr. Sharma,FHIR Upload,Uploaded Bundle with 20 entries
+2025-08-02 10:30 AM,Admin Naveen,FHIR Upload,Uploaded Bundle with 16 entries
+2025-08-02 10:12 AM,Dr. Verma,FHIR Upload,Uploaded Bundle with 9 entries
+2025-08-02 10:00 AM,Dr. Iyer,Translation,Translated 'Stomachache' → 'पेट दर्द'
+2025-08-02 05:39 AM,Dr. Rao,CSV Ingestion,Ingested 86 codes from batch_aug.csv
+2025-08-01 11:21 PM,Dr. Singh,Login,User session started
+2025-08-01 11:00 PM,Dr. Patel,Code Search,Searched for 'Ear Infection'
+2025-08-01 08:52 PM,Dr. Rao,Login,User session started
+2025-08-01 02:18 PM,Dr. Sharma,FHIR Upload,Uploaded Bundle with 12 entries
+2025-08-01 01:48 PM,Dr. Patel,Login,User session started
+2025-08-01 12:17 PM,Dr. Patel,Translation,Translated 'Headache' → 'पेट दर्द'
+2025-08-01 11:10 AM,QA Bot,Code Search,Searched for 'Constipation'
+2025-08-01 11:00 AM,Dr. Rao,Code Search,Searched for 'Depression'
+2025-08-01 10:49 AM,Dr. Patel,CSV Ingestion,Ingested 50 codes from batch_aug.csv
+2025-08-01 10:22 AM,System,Translation,Translated 'Headache' → 'बुखार'
+2025-08-01 07:25 AM,QA Bot,Code Search,Searched for 'Arthritis'
+2025-08-01 06:03 AM,QA Bot,FHIR Upload,Uploaded Bundle with 12 entries
+2025-08-01 05:29 AM,System,Translation,Translated 'Headache' → 'सर दर्द'
+2025-08-01 02:05 AM,QA Bot,Mapping Update,Mapped TM045 to TM2
+2025-08-01 01:29 AM,Dr. Patel,FHIR Upload,Uploaded Bundle with 24 entries
+2025-08-01 12:47 AM,QA Bot,FHIR Upload,Uploaded Bundle with 7 entries
+2025-08-01 12:47 AM,Dr. Verma,Mapping Update,Mapped NA123 to ICD-11
