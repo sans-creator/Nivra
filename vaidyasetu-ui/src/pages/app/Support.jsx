@@ -78,7 +78,7 @@ export default function Support() {
     {
       role: "assistant",
       content:
-        "Hi! I’m your support assistant. Ask about mapping, FHIR Builder, Bundles—or upload a JSON and I’ll explain it.",
+        "Hi! I’m your support assistant. ",
       ts: Date.now(),
     },
   ]);
